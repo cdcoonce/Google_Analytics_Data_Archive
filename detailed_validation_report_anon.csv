@@ -1,0 +1,618 @@
+Property,Report Type,Year,File,Valid,Message,start_date,end_date,num_rows,num_columns
+21d2561c-a42b-4047-b1b9-f2e38567deca,Page Dimensions report,2022.0,Year_2022_part_1_91939541.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,3174.0,19.0
+21d2561c-a42b-4047-b1b9-f2e38567deca,Page Dimensions report,2023.0,Year_2023_part_1_91939541.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,2305.0,19.0
+21d2561c-a42b-4047-b1b9-f2e38567deca,Date and Source Dimensions only,2014.0,Year_2014_part_1_91939541.csv,True,Validation passed,2014-10-10 00:00:00,2014-12-09,193.0,13.0
+21d2561c-a42b-4047-b1b9-f2e38567deca,Date and Source Dimensions only,2015.0,Year_2015_part_1_91939541.csv,True,Validation passed,2015-01-01 00:00:00,2015-12-31,1521.0,13.0
+21d2561c-a42b-4047-b1b9-f2e38567deca,Date and Source Dimensions only,2016.0,Year_2016_part_1_91939541.csv,True,Validation passed,2016-01-01 00:00:00,2016-10-30,1208.0,13.0
+21d2561c-a42b-4047-b1b9-f2e38567deca,Date and Source Dimensions only,2019.0,Year_2019_part_1_91939541.csv,True,Validation passed,2019-02-04 00:00:00,2019-12-31,805.0,13.0
+21d2561c-a42b-4047-b1b9-f2e38567deca,Date and Source Dimensions only,2020.0,Year_2020_part_1_91939541.csv,True,Validation passed,2020-01-01 00:00:00,2020-12-31,820.0,13.0
+21d2561c-a42b-4047-b1b9-f2e38567deca,Date and Source Dimensions only,2021.0,Year_2021_part_1_91939541.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,1038.0,13.0
+21d2561c-a42b-4047-b1b9-f2e38567deca,Date and Source Dimensions only,2022.0,Year_2022_part_1_91939541.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,996.0,13.0
+21d2561c-a42b-4047-b1b9-f2e38567deca,Date and Source Dimensions only,2023.0,Year_2023_part_1_91939541.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,548.0,13.0
+21d2561c-a42b-4047-b1b9-f2e38567deca,Event Dimensions report,,,False,Reports not available,,,,
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2020.0,Year_2020_part_1_216420949.csv,True,Validation passed,2020-04-22 00:00:00,2020-06-15,100000.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2020.0,Year_2020_part_2_216420949.csv,True,Validation passed,2020-06-15 00:00:00,2020-07-30,100000.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2020.0,Year_2020_part_3_216420949.csv,True,Validation passed,2020-07-30 00:00:00,2020-09-10,100000.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2020.0,Year_2020_part_4_216420949.csv,True,Validation passed,2020-09-10 00:00:00,2020-10-26,100000.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2020.0,Year_2020_part_5_216420949.csv,True,Validation passed,2020-10-26 00:00:00,2020-12-07,100000.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2020.0,Year_2020_part_6_216420949.csv,True,Validation passed,2020-12-07 00:00:00,2020-12-31,54209.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2021.0,Year_2021_part_1_216420949.csv,True,Validation passed,2021-01-01 00:00:00,2021-02-22,100000.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2021.0,Year_2021_part_2_216420949.csv,True,Validation passed,2021-02-22 00:00:00,2021-05-01,100000.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2021.0,Year_2021_part_3_216420949.csv,True,Validation passed,2021-05-01 00:00:00,2021-07-10,100000.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2021.0,Year_2021_part_4_216420949.csv,True,Validation passed,2021-07-10 00:00:00,2021-09-17,100000.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2021.0,Year_2021_part_5_216420949.csv,True,Validation passed,2021-09-17 00:00:00,2021-11-24,100000.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2021.0,Year_2021_part_6_216420949.csv,True,Validation passed,2021-11-24 00:00:00,2021-12-31,53093.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2022.0,Year_2022_part_1_216420949.csv,True,Validation passed,2022-01-01 00:00:00,2022-02-14,100000.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2022.0,Year_2022_part_2_216420949.csv,True,Validation passed,2022-02-14 00:00:00,2022-04-07,100000.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2022.0,Year_2022_part_3_216420949.csv,True,Validation passed,2022-04-07 00:00:00,2022-06-02,100000.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2022.0,Year_2022_part_4_216420949.csv,True,Validation passed,2022-06-02 00:00:00,2022-07-29,100000.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2022.0,Year_2022_part_5_216420949.csv,True,Validation passed,2022-07-29 00:00:00,2022-09-27,100000.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2022.0,Year_2022_part_6_216420949.csv,True,Validation passed,2022-09-27 00:00:00,2022-11-22,100000.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2022.0,Year_2022_part_7_216420949.csv,True,Validation passed,2022-11-22 00:00:00,2022-12-31,65942.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2023.0,Year_2023_part_1_216420949.csv,True,Validation passed,2023-01-01 00:00:00,2023-02-04,100000.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2023.0,Year_2023_part_2_216420949.csv,True,Validation passed,2023-02-04 00:00:00,2023-03-15,100000.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2023.0,Year_2023_part_3_216420949.csv,True,Validation passed,2023-03-15 00:00:00,2023-04-22,100000.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2023.0,Year_2023_part_4_216420949.csv,True,Validation passed,2023-04-22 00:00:00,2023-06-05,100000.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2023.0,Year_2023_part_5_216420949.csv,True,Validation passed,2023-06-05 00:00:00,2023-07-14,100000.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2023.0,Year_2023_part_6_216420949.csv,True,Validation passed,2023-07-14 00:00:00,2023-08-22,100000.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Page Dimensions report,2023.0,Year_2023_part_7_216420949.csv,True,Validation passed,2023-08-22 00:00:00,2023-10-04,99456.0,19.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Date and Source Dimensions only,2020.0,Year_2020_part_1_216420949.csv,True,Validation passed,2020-04-22 00:00:00,2020-12-31,1503.0,13.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Date and Source Dimensions only,2021.0,Year_2021_part_1_216420949.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,1530.0,13.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Date and Source Dimensions only,2022.0,Year_2022_part_1_216420949.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,1484.0,13.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Date and Source Dimensions only,2023.0,Year_2023_part_1_216420949.csv,True,Validation passed,2023-01-01 00:00:00,2023-10-04,1258.0,13.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Event Dimensions report,2020.0,Year_2020_part_1_216420949.csv,True,Validation passed,2020-04-22 00:00:00,2020-12-31,48434.0,15.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Event Dimensions report,2021.0,Year_2021_part_1_216420949.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,52209.0,15.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Event Dimensions report,2022.0,Year_2022_part_1_216420949.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,69979.0,15.0
+0d03df85-2293-4a3a-8b8f-55c1d90dfa66,Event Dimensions report,2023.0,Year_2023_part_1_216420949.csv,True,Validation passed,2023-01-01 00:00:00,2023-10-04,69509.0,15.0
+130113f8-fe85-401a-bdb4-c65c3c1cd858,Page Dimensions report,2022.0,Year_2022_part_1_134327801.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,4333.0,19.0
+130113f8-fe85-401a-bdb4-c65c3c1cd858,Page Dimensions report,2023.0,Year_2023_part_1_134327801.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,3949.0,19.0
+130113f8-fe85-401a-bdb4-c65c3c1cd858,Date and Source Dimensions only,2016.0,Year_2016_part_1_134327801.csv,True,Validation passed,2016-11-22 00:00:00,2016-12-31,44.0,13.0
+130113f8-fe85-401a-bdb4-c65c3c1cd858,Date and Source Dimensions only,2017.0,Year_2017_part_1_134327801.csv,True,Validation passed,2017-01-01 00:00:00,2017-12-31,876.0,13.0
+130113f8-fe85-401a-bdb4-c65c3c1cd858,Date and Source Dimensions only,2018.0,Year_2018_part_1_134327801.csv,True,Validation passed,2018-01-01 00:00:00,2018-12-31,1096.0,13.0
+130113f8-fe85-401a-bdb4-c65c3c1cd858,Date and Source Dimensions only,2019.0,Year_2019_part_1_134327801.csv,True,Validation passed,2019-01-01 00:00:00,2019-12-31,997.0,13.0
+130113f8-fe85-401a-bdb4-c65c3c1cd858,Date and Source Dimensions only,2020.0,Year_2020_part_1_134327801.csv,True,Validation passed,2020-01-01 00:00:00,2020-12-31,1066.0,13.0
+130113f8-fe85-401a-bdb4-c65c3c1cd858,Date and Source Dimensions only,2021.0,Year_2021_part_1_134327801.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,968.0,13.0
+130113f8-fe85-401a-bdb4-c65c3c1cd858,Date and Source Dimensions only,2022.0,Year_2022_part_1_134327801.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,995.0,13.0
+130113f8-fe85-401a-bdb4-c65c3c1cd858,Date and Source Dimensions only,2023.0,Year_2023_part_1_134327801.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,589.0,13.0
+130113f8-fe85-401a-bdb4-c65c3c1cd858,Event Dimensions report,2022.0,Year_2022_part_1_134327801.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,3908.0,15.0
+130113f8-fe85-401a-bdb4-c65c3c1cd858,Event Dimensions report,2023.0,Year_2023_part_1_134327801.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,3387.0,15.0
+c881d50e-3623-4c62-ab2e-61bf7a3d2f7f,Page Dimensions report,2022.0,Year_2022_part_1_76464526.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,1554.0,19.0
+c881d50e-3623-4c62-ab2e-61bf7a3d2f7f,Page Dimensions report,2023.0,Year_2023_part_1_76464526.csv,True,Validation passed,2023-01-01 00:00:00,2023-06-07,790.0,19.0
+c881d50e-3623-4c62-ab2e-61bf7a3d2f7f,Date and Source Dimensions only,2013.0,Year_2013_part_1_76464526.csv,True,Validation passed,2013-09-26 00:00:00,2013-12-31,206.0,13.0
+c881d50e-3623-4c62-ab2e-61bf7a3d2f7f,Date and Source Dimensions only,2014.0,Year_2014_part_1_76464526.csv,True,Validation passed,2014-01-01 00:00:00,2014-12-31,1133.0,13.0
+c881d50e-3623-4c62-ab2e-61bf7a3d2f7f,Date and Source Dimensions only,2015.0,Year_2015_part_1_76464526.csv,True,Validation passed,2015-01-01 00:00:00,2015-12-31,1237.0,13.0
+c881d50e-3623-4c62-ab2e-61bf7a3d2f7f,Date and Source Dimensions only,2016.0,Year_2016_part_1_76464526.csv,True,Validation passed,2016-01-01 00:00:00,2016-12-31,1133.0,13.0
+c881d50e-3623-4c62-ab2e-61bf7a3d2f7f,Date and Source Dimensions only,2017.0,Year_2017_part_1_76464526.csv,True,Validation passed,2017-01-01 00:00:00,2017-12-31,1052.0,13.0
+c881d50e-3623-4c62-ab2e-61bf7a3d2f7f,Date and Source Dimensions only,2018.0,Year_2018_part_1_76464526.csv,True,Validation passed,2018-01-01 00:00:00,2018-12-31,988.0,13.0
+c881d50e-3623-4c62-ab2e-61bf7a3d2f7f,Date and Source Dimensions only,2019.0,Year_2019_part_1_76464526.csv,True,Validation passed,2019-01-01 00:00:00,2019-12-31,1033.0,13.0
+c881d50e-3623-4c62-ab2e-61bf7a3d2f7f,Date and Source Dimensions only,2020.0,Year_2020_part_1_76464526.csv,True,Validation passed,2020-01-01 00:00:00,2020-12-31,961.0,13.0
+c881d50e-3623-4c62-ab2e-61bf7a3d2f7f,Date and Source Dimensions only,2021.0,Year_2021_part_1_76464526.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,764.0,13.0
+c881d50e-3623-4c62-ab2e-61bf7a3d2f7f,Date and Source Dimensions only,2022.0,Year_2022_part_1_76464526.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,616.0,13.0
+c881d50e-3623-4c62-ab2e-61bf7a3d2f7f,Date and Source Dimensions only,2023.0,Year_2023_part_1_76464526.csv,True,Validation passed,2023-01-01 00:00:00,2023-06-07,178.0,13.0
+c881d50e-3623-4c62-ab2e-61bf7a3d2f7f,Event Dimensions report,2022.0,Year_2022_part_1_76464526.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,1297.0,15.0
+c881d50e-3623-4c62-ab2e-61bf7a3d2f7f,Event Dimensions report,2023.0,Year_2023_part_1_76464526.csv,True,Validation passed,2023-01-01 00:00:00,2023-04-03,619.0,15.0
+8e2970f5-11a5-471e-a8ac-ad7666ba5f22,Page Dimensions report,2022.0,Year_2022_part_1_218511339.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-30,964.0,19.0
+8e2970f5-11a5-471e-a8ac-ad7666ba5f22,Page Dimensions report,2023.0,Year_2023_part_1_218511339.csv,True,Validation passed,2023-01-02 00:00:00,2023-07-16,838.0,19.0
+8e2970f5-11a5-471e-a8ac-ad7666ba5f22,Date and Source Dimensions only,2020.0,Year_2020_part_1_218511339.csv,True,Validation passed,2020-07-02 00:00:00,2020-12-31,291.0,13.0
+8e2970f5-11a5-471e-a8ac-ad7666ba5f22,Date and Source Dimensions only,2021.0,Year_2021_part_1_218511339.csv,True,Validation passed,2021-01-02 00:00:00,2021-12-31,454.0,13.0
+8e2970f5-11a5-471e-a8ac-ad7666ba5f22,Date and Source Dimensions only,2022.0,Year_2022_part_1_218511339.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-30,470.0,13.0
+8e2970f5-11a5-471e-a8ac-ad7666ba5f22,Date and Source Dimensions only,2023.0,Year_2023_part_1_218511339.csv,True,Validation passed,2023-01-02 00:00:00,2023-07-16,268.0,13.0
+8e2970f5-11a5-471e-a8ac-ad7666ba5f22,Event Dimensions report,,,False,Reports not available,,,,
+a302cd65-25f7-4e2f-95b2-923d9e72dedf,Page Dimensions report,2022.0,Year_2022_part_1_254939306.csv,True,Validation passed,2022-04-28 00:00:00,2022-12-30,858.0,19.0
+a302cd65-25f7-4e2f-95b2-923d9e72dedf,Page Dimensions report,2023.0,Year_2023_part_1_254939306.csv,True,Validation passed,2023-01-02 00:00:00,2023-09-07,959.0,19.0
+a302cd65-25f7-4e2f-95b2-923d9e72dedf,Date and Source Dimensions only,2021.0,Year_2021_part_1_254939306.csv,True,Validation passed,2021-12-03 00:00:00,2021-12-31,20.0,13.0
+a302cd65-25f7-4e2f-95b2-923d9e72dedf,Date and Source Dimensions only,2022.0,Year_2022_part_1_254939306.csv,True,Validation passed,2022-01-03 00:00:00,2022-12-30,320.0,13.0
+a302cd65-25f7-4e2f-95b2-923d9e72dedf,Date and Source Dimensions only,2023.0,Year_2023_part_1_254939306.csv,True,Validation passed,2023-01-02 00:00:00,2023-09-07,226.0,13.0
+a302cd65-25f7-4e2f-95b2-923d9e72dedf,Event Dimensions report,,,False,Reports not available,,,,
+f2f4c7be-c47f-4e41-8831-f04529fd6b65,Page Dimensions report,2022.0,Year_2022_part_1_138583422.csv,True,Validation passed,2022-05-01 00:00:00,2022-12-31,222.0,19.0
+f2f4c7be-c47f-4e41-8831-f04529fd6b65,Page Dimensions report,2023.0,Year_2023_part_1_138583422.csv,True,Validation passed,2023-01-03 00:00:00,2023-07-15,278.0,19.0
+f2f4c7be-c47f-4e41-8831-f04529fd6b65,Date and Source Dimensions only,2017.0,Year_2017_part_1_138583422.csv,True,Validation passed,2017-01-20 00:00:00,2017-12-31,322.0,13.0
+f2f4c7be-c47f-4e41-8831-f04529fd6b65,Date and Source Dimensions only,2018.0,Year_2018_part_1_138583422.csv,True,Validation passed,2018-01-02 00:00:00,2018-12-31,274.0,13.0
+f2f4c7be-c47f-4e41-8831-f04529fd6b65,Date and Source Dimensions only,2019.0,Year_2019_part_1_138583422.csv,True,Validation passed,2019-01-01 00:00:00,2019-12-30,262.0,13.0
+f2f4c7be-c47f-4e41-8831-f04529fd6b65,Date and Source Dimensions only,2020.0,Year_2020_part_1_138583422.csv,True,Validation passed,2020-01-01 00:00:00,2020-12-29,280.0,13.0
+f2f4c7be-c47f-4e41-8831-f04529fd6b65,Date and Source Dimensions only,2021.0,Year_2021_part_1_138583422.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,431.0,13.0
+f2f4c7be-c47f-4e41-8831-f04529fd6b65,Date and Source Dimensions only,2022.0,Year_2022_part_1_138583422.csv,True,Validation passed,2022-01-03 00:00:00,2022-12-31,271.0,13.0
+f2f4c7be-c47f-4e41-8831-f04529fd6b65,Date and Source Dimensions only,2023.0,Year_2023_part_1_138583422.csv,True,Validation passed,2023-01-03 00:00:00,2023-07-15,186.0,13.0
+f2f4c7be-c47f-4e41-8831-f04529fd6b65,Event Dimensions report,2022.0,Year_2022_part_1_138583422.csv,True,Validation passed,2022-05-01 00:00:00,2022-12-31,150.0,15.0
+f2f4c7be-c47f-4e41-8831-f04529fd6b65,Event Dimensions report,2023.0,Year_2023_part_1_138583422.csv,True,Validation passed,2023-01-04 00:00:00,2023-07-15,170.0,15.0
+c9563d00-c6d7-466a-b706-28ef078578b9,Page Dimensions report,2022.0,Year_2022_part_1_215307867.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-30,454.0,19.0
+c9563d00-c6d7-466a-b706-28ef078578b9,Page Dimensions report,2023.0,Year_2023_part_1_215307867.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,366.0,19.0
+c9563d00-c6d7-466a-b706-28ef078578b9,Date and Source Dimensions only,2020.0,Year_2020_part_1_215307867.csv,True,Validation passed,2020-04-07 00:00:00,2020-12-31,329.0,13.0
+c9563d00-c6d7-466a-b706-28ef078578b9,Date and Source Dimensions only,2021.0,Year_2021_part_1_215307867.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-30,451.0,13.0
+c9563d00-c6d7-466a-b706-28ef078578b9,Date and Source Dimensions only,2022.0,Year_2022_part_1_215307867.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-30,402.0,13.0
+c9563d00-c6d7-466a-b706-28ef078578b9,Date and Source Dimensions only,2023.0,Year_2023_part_1_215307867.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,206.0,13.0
+c9563d00-c6d7-466a-b706-28ef078578b9,Event Dimensions report,2022.0,Year_2022_part_1_215307867.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-30,394.0,15.0
+c9563d00-c6d7-466a-b706-28ef078578b9,Event Dimensions report,2023.0,Year_2023_part_1_215307867.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,244.0,15.0
+de0dd308-8d89-41ac-8ebf-a93864f342f7,Page Dimensions report,2023.0,Year_2023_part_1_77470512.csv,True,Validation passed,2023-02-07 00:00:00,2023-03-09,65.0,19.0
+de0dd308-8d89-41ac-8ebf-a93864f342f7,Date and Source Dimensions only,2014.0,Year_2014_part_1_77470512.csv,True,Validation passed,2014-03-23 00:00:00,2014-12-31,703.0,13.0
+de0dd308-8d89-41ac-8ebf-a93864f342f7,Date and Source Dimensions only,2015.0,Year_2015_part_1_77470512.csv,True,Validation passed,2015-01-01 00:00:00,2015-12-31,891.0,13.0
+de0dd308-8d89-41ac-8ebf-a93864f342f7,Date and Source Dimensions only,2016.0,Year_2016_part_1_77470512.csv,True,Validation passed,2016-01-01 00:00:00,2016-08-28,481.0,13.0
+de0dd308-8d89-41ac-8ebf-a93864f342f7,Date and Source Dimensions only,2017.0,Year_2017_part_1_77470512.csv,True,Validation passed,2017-07-10 00:00:00,2017-07-10,1.0,13.0
+de0dd308-8d89-41ac-8ebf-a93864f342f7,Date and Source Dimensions only,2019.0,Year_2019_part_1_77470512.csv,True,Validation passed,2019-02-04 00:00:00,2019-12-31,407.0,13.0
+de0dd308-8d89-41ac-8ebf-a93864f342f7,Date and Source Dimensions only,2020.0,Year_2020_part_1_77470512.csv,True,Validation passed,2020-01-01 00:00:00,2020-12-31,658.0,13.0
+de0dd308-8d89-41ac-8ebf-a93864f342f7,Date and Source Dimensions only,2021.0,Year_2021_part_1_77470512.csv,True,Validation passed,2021-01-01 00:00:00,2021-06-25,279.0,13.0
+de0dd308-8d89-41ac-8ebf-a93864f342f7,Date and Source Dimensions only,2023.0,Year_2023_part_1_77470512.csv,True,Validation passed,2023-02-07 00:00:00,2023-03-09,41.0,13.0
+de0dd308-8d89-41ac-8ebf-a93864f342f7,Event Dimensions report,,,False,Reports not available,,,,
+96cb4af1-3900-43c9-813a-a8c28d6f1599,Page Dimensions report,2022.0,Year_2022_part_1_215647600.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-30,2089.0,19.0
+96cb4af1-3900-43c9-813a-a8c28d6f1599,Page Dimensions report,2023.0,Year_2023_part_1_215647600.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,1992.0,19.0
+96cb4af1-3900-43c9-813a-a8c28d6f1599,Date and Source Dimensions only,2020.0,Year_2020_part_1_215647600.csv,True,Validation passed,2020-04-21 00:00:00,2020-12-31,294.0,13.0
+96cb4af1-3900-43c9-813a-a8c28d6f1599,Date and Source Dimensions only,2021.0,Year_2021_part_1_215647600.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,547.0,13.0
+96cb4af1-3900-43c9-813a-a8c28d6f1599,Date and Source Dimensions only,2022.0,Year_2022_part_1_215647600.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-30,737.0,13.0
+96cb4af1-3900-43c9-813a-a8c28d6f1599,Date and Source Dimensions only,2023.0,Year_2023_part_1_215647600.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,503.0,13.0
+96cb4af1-3900-43c9-813a-a8c28d6f1599,Event Dimensions report,2022.0,Year_2022_part_1_215647600.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-30,1588.0,15.0
+96cb4af1-3900-43c9-813a-a8c28d6f1599,Event Dimensions report,2023.0,Year_2023_part_1_215647600.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,1598.0,15.0
+c3794c86-7864-46dd-a270-c5c5bd40a1f0,Page Dimensions report,2022.0,Year_2022_part_1_163156841.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,2178.0,19.0
+c3794c86-7864-46dd-a270-c5c5bd40a1f0,Page Dimensions report,2023.0,Year_2023_part_1_163156841.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-06,1138.0,19.0
+c3794c86-7864-46dd-a270-c5c5bd40a1f0,Date and Source Dimensions only,2018.0,Year_2018_part_1_163156841.csv,True,Validation passed,2018-03-26 00:00:00,2018-12-31,321.0,13.0
+c3794c86-7864-46dd-a270-c5c5bd40a1f0,Date and Source Dimensions only,2019.0,Year_2019_part_1_163156841.csv,True,Validation passed,2019-01-01 00:00:00,2019-12-31,574.0,13.0
+c3794c86-7864-46dd-a270-c5c5bd40a1f0,Date and Source Dimensions only,2020.0,Year_2020_part_1_163156841.csv,True,Validation passed,2020-01-01 00:00:00,2020-12-31,540.0,13.0
+c3794c86-7864-46dd-a270-c5c5bd40a1f0,Date and Source Dimensions only,2021.0,Year_2021_part_1_163156841.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,632.0,13.0
+c3794c86-7864-46dd-a270-c5c5bd40a1f0,Date and Source Dimensions only,2022.0,Year_2022_part_1_163156841.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,757.0,13.0
+c3794c86-7864-46dd-a270-c5c5bd40a1f0,Date and Source Dimensions only,2023.0,Year_2023_part_1_163156841.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-06,321.0,13.0
+c3794c86-7864-46dd-a270-c5c5bd40a1f0,Event Dimensions report,2022.0,Year_2022_part_1_163156841.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,1747.0,15.0
+c3794c86-7864-46dd-a270-c5c5bd40a1f0,Event Dimensions report,2023.0,Year_2023_part_1_163156841.csv,True,Validation passed,2023-01-01 00:00:00,2023-04-26,856.0,15.0
+a60aba6c-4d69-4178-a0df-5a1ba2a5f08a,Page Dimensions report,2022.0,Year_2022_part_1_245105770.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,1350.0,19.0
+a60aba6c-4d69-4178-a0df-5a1ba2a5f08a,Page Dimensions report,2023.0,Year_2023_part_1_245105770.csv,True,Validation passed,2023-01-01 00:00:00,2023-09-07,1608.0,19.0
+a60aba6c-4d69-4178-a0df-5a1ba2a5f08a,Date and Source Dimensions only,2021.0,Year_2021_part_1_245105770.csv,True,Validation passed,2021-06-21 00:00:00,2021-12-31,371.0,13.0
+a60aba6c-4d69-4178-a0df-5a1ba2a5f08a,Date and Source Dimensions only,2022.0,Year_2022_part_1_245105770.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,892.0,13.0
+a60aba6c-4d69-4178-a0df-5a1ba2a5f08a,Date and Source Dimensions only,2023.0,Year_2023_part_1_245105770.csv,True,Validation passed,2023-01-01 00:00:00,2023-09-07,638.0,13.0
+a60aba6c-4d69-4178-a0df-5a1ba2a5f08a,Event Dimensions report,,,False,Reports not available,,,,
+307ea3ef-41ea-48e0-8f16-1e6e3350ca0e,Page Dimensions report,2022.0,Year_2022_part_1_141384255.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,835.0,19.0
+307ea3ef-41ea-48e0-8f16-1e6e3350ca0e,Page Dimensions report,2023.0,Year_2023_part_1_141384255.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,1045.0,19.0
+307ea3ef-41ea-48e0-8f16-1e6e3350ca0e,Date and Source Dimensions only,2017.0,Year_2017_part_1_141384255.csv,True,Validation passed,2017-05-24 00:00:00,2017-12-31,167.0,13.0
+307ea3ef-41ea-48e0-8f16-1e6e3350ca0e,Date and Source Dimensions only,2018.0,Year_2018_part_1_141384255.csv,True,Validation passed,2018-01-01 00:00:00,2018-12-30,368.0,13.0
+307ea3ef-41ea-48e0-8f16-1e6e3350ca0e,Date and Source Dimensions only,2019.0,Year_2019_part_1_141384255.csv,True,Validation passed,2019-01-01 00:00:00,2019-12-31,352.0,13.0
+307ea3ef-41ea-48e0-8f16-1e6e3350ca0e,Date and Source Dimensions only,2020.0,Year_2020_part_1_141384255.csv,True,Validation passed,2020-01-01 00:00:00,2020-12-31,399.0,13.0
+307ea3ef-41ea-48e0-8f16-1e6e3350ca0e,Date and Source Dimensions only,2021.0,Year_2021_part_1_141384255.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,444.0,13.0
+307ea3ef-41ea-48e0-8f16-1e6e3350ca0e,Date and Source Dimensions only,2022.0,Year_2022_part_1_141384255.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,432.0,13.0
+307ea3ef-41ea-48e0-8f16-1e6e3350ca0e,Date and Source Dimensions only,2023.0,Year_2023_part_1_141384255.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,351.0,13.0
+307ea3ef-41ea-48e0-8f16-1e6e3350ca0e,Event Dimensions report,2022.0,Year_2022_part_1_141384255.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,712.0,15.0
+307ea3ef-41ea-48e0-8f16-1e6e3350ca0e,Event Dimensions report,2023.0,Year_2023_part_1_141384255.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,888.0,15.0
+54a9a1a9-0e45-40cf-af2b-3a7650f6ece7,Page Dimensions report,2022.0,Year_2022_part_1_246350942.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,906.0,19.0
+54a9a1a9-0e45-40cf-af2b-3a7650f6ece7,Page Dimensions report,2023.0,Year_2023_part_1_246350942.csv,True,Validation passed,2023-01-02 00:00:00,2023-07-15,690.0,19.0
+54a9a1a9-0e45-40cf-af2b-3a7650f6ece7,Date and Source Dimensions only,2021.0,Year_2021_part_1_246350942.csv,True,Validation passed,2021-07-08 00:00:00,2021-12-31,370.0,13.0
+54a9a1a9-0e45-40cf-af2b-3a7650f6ece7,Date and Source Dimensions only,2022.0,Year_2022_part_1_246350942.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,768.0,13.0
+54a9a1a9-0e45-40cf-af2b-3a7650f6ece7,Date and Source Dimensions only,2023.0,Year_2023_part_1_246350942.csv,True,Validation passed,2023-01-02 00:00:00,2023-07-15,379.0,13.0
+54a9a1a9-0e45-40cf-af2b-3a7650f6ece7,Event Dimensions report,2022.0,Year_2022_part_1_246350942.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,699.0,15.0
+54a9a1a9-0e45-40cf-af2b-3a7650f6ece7,Event Dimensions report,2023.0,Year_2023_part_1_246350942.csv,True,Validation passed,2023-01-02 00:00:00,2023-07-15,529.0,15.0
+81a4159e-2704-471e-9a51-afc46ababf07,Page Dimensions report,2022.0,Year_2022_part_1_255585647.csv,True,Validation passed,2022-04-28 00:00:00,2022-12-28,744.0,19.0
+81a4159e-2704-471e-9a51-afc46ababf07,Page Dimensions report,2023.0,Year_2023_part_1_255585647.csv,True,Validation passed,2023-01-05 00:00:00,2023-09-07,350.0,19.0
+81a4159e-2704-471e-9a51-afc46ababf07,Date and Source Dimensions only,2021.0,Year_2021_part_1_255585647.csv,True,Validation passed,2021-11-16 00:00:00,2021-12-29,38.0,13.0
+81a4159e-2704-471e-9a51-afc46ababf07,Date and Source Dimensions only,2022.0,Year_2022_part_1_255585647.csv,True,Validation passed,2022-01-03 00:00:00,2022-12-28,509.0,13.0
+81a4159e-2704-471e-9a51-afc46ababf07,Date and Source Dimensions only,2023.0,Year_2023_part_1_255585647.csv,True,Validation passed,2023-01-05 00:00:00,2023-09-07,172.0,13.0
+81a4159e-2704-471e-9a51-afc46ababf07,Event Dimensions report,,,False,Reports not available,,,,
+254e33e3-16a5-470d-be22-c46caaa4dbb5,Page Dimensions report,2022.0,Year_2022_part_1_76290420.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,586.0,19.0
+254e33e3-16a5-470d-be22-c46caaa4dbb5,Page Dimensions report,2023.0,Year_2023_part_1_76290420.csv,True,Validation passed,2023-01-03 00:00:00,2023-07-16,4970.0,19.0
+254e33e3-16a5-470d-be22-c46caaa4dbb5,Date and Source Dimensions only,2013.0,Year_2013_part_1_76290420.csv,True,Validation passed,2013-09-26 00:00:00,2013-12-31,184.0,13.0
+254e33e3-16a5-470d-be22-c46caaa4dbb5,Date and Source Dimensions only,2014.0,Year_2014_part_1_76290420.csv,True,Validation passed,2014-01-01 00:00:00,2014-12-31,1073.0,13.0
+254e33e3-16a5-470d-be22-c46caaa4dbb5,Date and Source Dimensions only,2015.0,Year_2015_part_1_76290420.csv,True,Validation passed,2015-01-01 00:00:00,2015-12-31,1052.0,13.0
+254e33e3-16a5-470d-be22-c46caaa4dbb5,Date and Source Dimensions only,2016.0,Year_2016_part_1_76290420.csv,True,Validation passed,2016-01-01 00:00:00,2016-12-31,776.0,13.0
+254e33e3-16a5-470d-be22-c46caaa4dbb5,Date and Source Dimensions only,2017.0,Year_2017_part_1_76290420.csv,True,Validation passed,2017-01-01 00:00:00,2017-12-31,791.0,13.0
+254e33e3-16a5-470d-be22-c46caaa4dbb5,Date and Source Dimensions only,2018.0,Year_2018_part_1_76290420.csv,True,Validation passed,2018-01-01 00:00:00,2018-12-31,673.0,13.0
+254e33e3-16a5-470d-be22-c46caaa4dbb5,Date and Source Dimensions only,2019.0,Year_2019_part_1_76290420.csv,True,Validation passed,2019-01-01 00:00:00,2019-12-31,526.0,13.0
+254e33e3-16a5-470d-be22-c46caaa4dbb5,Date and Source Dimensions only,2020.0,Year_2020_part_1_76290420.csv,True,Validation passed,2020-01-01 00:00:00,2020-12-31,595.0,13.0
+254e33e3-16a5-470d-be22-c46caaa4dbb5,Date and Source Dimensions only,2021.0,Year_2021_part_1_76290420.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,460.0,13.0
+254e33e3-16a5-470d-be22-c46caaa4dbb5,Date and Source Dimensions only,2022.0,Year_2022_part_1_76290420.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,388.0,13.0
+254e33e3-16a5-470d-be22-c46caaa4dbb5,Date and Source Dimensions only,2023.0,Year_2023_part_1_76290420.csv,True,Validation passed,2023-01-03 00:00:00,2023-07-16,608.0,13.0
+254e33e3-16a5-470d-be22-c46caaa4dbb5,Event Dimensions report,2022.0,Year_2022_part_1_76290420.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,389.0,15.0
+254e33e3-16a5-470d-be22-c46caaa4dbb5,Event Dimensions report,2023.0,Year_2023_part_1_76290420.csv,True,Validation passed,2023-01-04 00:00:00,2023-07-16,3913.0,15.0
+39684299-8321-4dbd-b2a0-d1c0d8cf9e94,Page Dimensions report,2022.0,Year_2022_part_1_254510466.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,4221.0,19.0
+39684299-8321-4dbd-b2a0-d1c0d8cf9e94,Page Dimensions report,2023.0,Year_2023_part_1_254510466.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,4496.0,19.0
+39684299-8321-4dbd-b2a0-d1c0d8cf9e94,Date and Source Dimensions only,2021.0,Year_2021_part_1_254510466.csv,True,Validation passed,2021-11-03 00:00:00,2021-12-31,61.0,13.0
+39684299-8321-4dbd-b2a0-d1c0d8cf9e94,Date and Source Dimensions only,2022.0,Year_2022_part_1_254510466.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,1083.0,13.0
+39684299-8321-4dbd-b2a0-d1c0d8cf9e94,Date and Source Dimensions only,2023.0,Year_2023_part_1_254510466.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,919.0,13.0
+39684299-8321-4dbd-b2a0-d1c0d8cf9e94,Event Dimensions report,,,False,Reports not available,,,,
+3f07f8c6-e3fc-4619-82a2-8c6b52cf06ad,Page Dimensions report,2022.0,Year_2022_part_1_245749258.csv,True,Validation passed,2022-05-04 00:00:00,2022-12-13,88.0,19.0
+3f07f8c6-e3fc-4619-82a2-8c6b52cf06ad,Page Dimensions report,2023.0,Year_2023_part_1_245749258.csv,True,Validation passed,2023-01-06 00:00:00,2023-06-28,121.0,19.0
+3f07f8c6-e3fc-4619-82a2-8c6b52cf06ad,Date and Source Dimensions only,2022.0,Year_2022_part_1_245749258.csv,True,Validation passed,2022-01-07 00:00:00,2022-12-13,143.0,13.0
+3f07f8c6-e3fc-4619-82a2-8c6b52cf06ad,Date and Source Dimensions only,2023.0,Year_2023_part_1_245749258.csv,True,Validation passed,2023-01-06 00:00:00,2023-06-28,70.0,13.0
+3f07f8c6-e3fc-4619-82a2-8c6b52cf06ad,Event Dimensions report,,,False,Reports not available,,,,
+ade6e991-39dd-4431-912e-7d1decc6b288,Page Dimensions report,2022.0,Year_2022_part_1_245687913.csv,True,Validation passed,2022-06-01 00:00:00,2022-12-13,15.0,19.0
+ade6e991-39dd-4431-912e-7d1decc6b288,Page Dimensions report,2023.0,Year_2023_part_1_245687913.csv,True,Validation passed,2023-01-09 00:00:00,2023-06-28,128.0,19.0
+ade6e991-39dd-4431-912e-7d1decc6b288,Date and Source Dimensions only,2022.0,Year_2022_part_1_245687913.csv,True,Validation passed,2022-02-24 00:00:00,2022-12-13,25.0,13.0
+ade6e991-39dd-4431-912e-7d1decc6b288,Date and Source Dimensions only,2023.0,Year_2023_part_1_245687913.csv,True,Validation passed,2023-01-09 00:00:00,2023-06-28,56.0,13.0
+ade6e991-39dd-4431-912e-7d1decc6b288,Event Dimensions report,,,False,Reports not available,,,,
+cfa5c731-0167-415f-86c8-27beec86a444,Page Dimensions report,2022.0,Year_2022_part_1_245751480.csv,True,Validation passed,2022-05-11 00:00:00,2022-12-13,38.0,19.0
+cfa5c731-0167-415f-86c8-27beec86a444,Page Dimensions report,2023.0,Year_2023_part_1_245751480.csv,True,Validation passed,2023-01-09 00:00:00,2023-06-28,75.0,19.0
+cfa5c731-0167-415f-86c8-27beec86a444,Date and Source Dimensions only,2022.0,Year_2022_part_1_245751480.csv,True,Validation passed,2022-02-18 00:00:00,2022-12-13,68.0,13.0
+cfa5c731-0167-415f-86c8-27beec86a444,Date and Source Dimensions only,2023.0,Year_2023_part_1_245751480.csv,True,Validation passed,2023-01-09 00:00:00,2023-06-28,53.0,13.0
+cfa5c731-0167-415f-86c8-27beec86a444,Event Dimensions report,,,False,Reports not available,,,,
+2501faab-552e-4cdd-a713-7fadad9074b3,Page Dimensions report,2022.0,Year_2022_part_1_245718757.csv,True,Validation passed,2022-06-01 00:00:00,2022-11-22,13.0,19.0
+2501faab-552e-4cdd-a713-7fadad9074b3,Page Dimensions report,2023.0,Year_2023_part_1_245718757.csv,True,Validation passed,2023-01-09 00:00:00,2023-02-03,21.0,19.0
+2501faab-552e-4cdd-a713-7fadad9074b3,Date and Source Dimensions only,2022.0,Year_2022_part_1_245718757.csv,True,Validation passed,2022-03-08 00:00:00,2022-11-22,19.0,13.0
+2501faab-552e-4cdd-a713-7fadad9074b3,Date and Source Dimensions only,2023.0,Year_2023_part_1_245718757.csv,True,Validation passed,2023-01-09 00:00:00,2023-02-03,14.0,13.0
+2501faab-552e-4cdd-a713-7fadad9074b3,Event Dimensions report,,,False,Reports not available,,,,
+b24920f8-fd8d-45d8-b6f5-41a3f4c30334,Page Dimensions report,,,False,Reports not available,,,,
+b24920f8-fd8d-45d8-b6f5-41a3f4c30334,Date and Source Dimensions only,2020.0,Year_2020_part_1_215470389.csv,True,Validation passed,2020-04-13 00:00:00,2020-04-30,8.0,13.0
+b24920f8-fd8d-45d8-b6f5-41a3f4c30334,Event Dimensions report,,,False,Reports not available,,,,
+147be85d-f8ee-4ecb-9caa-cb666a06eb10,Page Dimensions report,2022.0,Year_2022_part_1_206494982.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,760.0,19.0
+147be85d-f8ee-4ecb-9caa-cb666a06eb10,Page Dimensions report,2023.0,Year_2023_part_1_206494982.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-15,725.0,19.0
+147be85d-f8ee-4ecb-9caa-cb666a06eb10,Date and Source Dimensions only,2020.0,Year_2020_part_1_206494982.csv,True,Validation passed,2020-05-05 00:00:00,2020-12-29,71.0,13.0
+147be85d-f8ee-4ecb-9caa-cb666a06eb10,Date and Source Dimensions only,2021.0,Year_2021_part_1_206494982.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,316.0,13.0
+147be85d-f8ee-4ecb-9caa-cb666a06eb10,Date and Source Dimensions only,2022.0,Year_2022_part_1_206494982.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,473.0,13.0
+147be85d-f8ee-4ecb-9caa-cb666a06eb10,Date and Source Dimensions only,2023.0,Year_2023_part_1_206494982.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-15,257.0,13.0
+147be85d-f8ee-4ecb-9caa-cb666a06eb10,Event Dimensions report,2022.0,Year_2022_part_1_206494982.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,710.0,15.0
+147be85d-f8ee-4ecb-9caa-cb666a06eb10,Event Dimensions report,2023.0,Year_2023_part_1_206494982.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-15,650.0,15.0
+0bb4d626-fb8e-44e8-92eb-50d221359a7c,Page Dimensions report,,,False,Reports not available,,,,
+0bb4d626-fb8e-44e8-92eb-50d221359a7c,Date and Source Dimensions only,2014.0,Year_2014_part_1_91923332.csv,True,Validation passed,2014-10-01 00:00:00,2014-12-31,165.0,13.0
+0bb4d626-fb8e-44e8-92eb-50d221359a7c,Date and Source Dimensions only,2015.0,Year_2015_part_1_91923332.csv,True,Validation passed,2015-01-01 00:00:00,2015-12-31,659.0,13.0
+0bb4d626-fb8e-44e8-92eb-50d221359a7c,Date and Source Dimensions only,2016.0,Year_2016_part_1_91923332.csv,True,Validation passed,2016-01-01 00:00:00,2016-10-13,476.0,13.0
+0bb4d626-fb8e-44e8-92eb-50d221359a7c,Date and Source Dimensions only,2019.0,Year_2019_part_1_91923332.csv,True,Validation passed,2019-11-20 00:00:00,2019-12-30,38.0,13.0
+0bb4d626-fb8e-44e8-92eb-50d221359a7c,Date and Source Dimensions only,2020.0,Year_2020_part_1_91923332.csv,True,Validation passed,2020-01-01 00:00:00,2020-05-29,126.0,13.0
+0bb4d626-fb8e-44e8-92eb-50d221359a7c,Event Dimensions report,,,False,Reports not available,,,,
+19eedf80-9ac6-4dd9-8d74-75e2b37af3c5,Page Dimensions report,2022.0,Year_2022_part_1_216455083.csv,True,Validation passed,2022-04-27 00:00:00,2022-11-16,100000.0,19.0
+19eedf80-9ac6-4dd9-8d74-75e2b37af3c5,Page Dimensions report,2022.0,Year_2022_part_2_216455083.csv,True,Validation passed,2022-11-16 00:00:00,2022-12-31,20789.0,19.0
+19eedf80-9ac6-4dd9-8d74-75e2b37af3c5,Page Dimensions report,2023.0,Year_2023_part_1_216455083.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-12,100000.0,19.0
+19eedf80-9ac6-4dd9-8d74-75e2b37af3c5,Page Dimensions report,2023.0,Year_2023_part_2_216455083.csv,True,Validation passed,2023-07-12 00:00:00,2023-10-04,44670.0,19.0
+19eedf80-9ac6-4dd9-8d74-75e2b37af3c5,Date and Source Dimensions only,2020.0,Year_2020_part_1_216455083.csv,True,Validation passed,2020-04-23 00:00:00,2020-12-31,834.0,13.0
+19eedf80-9ac6-4dd9-8d74-75e2b37af3c5,Date and Source Dimensions only,2021.0,Year_2021_part_1_216455083.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,1194.0,13.0
+19eedf80-9ac6-4dd9-8d74-75e2b37af3c5,Date and Source Dimensions only,2022.0,Year_2022_part_1_216455083.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,1235.0,13.0
+19eedf80-9ac6-4dd9-8d74-75e2b37af3c5,Date and Source Dimensions only,2023.0,Year_2023_part_1_216455083.csv,True,Validation passed,2023-01-01 00:00:00,2023-10-04,1027.0,13.0
+19eedf80-9ac6-4dd9-8d74-75e2b37af3c5,Event Dimensions report,,,False,Reports not available,,,,
+854a9b83-a2ee-4838-b13d-1521966d0ba5,Page Dimensions report,2022.0,Year_2022_part_1_266164393.csv,True,Validation passed,2022-05-03 00:00:00,2022-12-13,114.0,19.0
+854a9b83-a2ee-4838-b13d-1521966d0ba5,Page Dimensions report,2023.0,Year_2023_part_1_266164393.csv,True,Validation passed,2023-01-04 00:00:00,2023-07-03,126.0,19.0
+854a9b83-a2ee-4838-b13d-1521966d0ba5,Date and Source Dimensions only,2022.0,Year_2022_part_1_266164393.csv,True,Validation passed,2022-05-03 00:00:00,2022-12-13,85.0,13.0
+854a9b83-a2ee-4838-b13d-1521966d0ba5,Date and Source Dimensions only,2023.0,Year_2023_part_1_266164393.csv,True,Validation passed,2023-01-04 00:00:00,2023-07-03,84.0,13.0
+854a9b83-a2ee-4838-b13d-1521966d0ba5,Event Dimensions report,,,False,Reports not available,,,,
+4187db32-8167-47be-ba83-693815e23b57,Page Dimensions report,2022.0,Year_2022_part_1_247004154.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,3482.0,19.0
+4187db32-8167-47be-ba83-693815e23b57,Page Dimensions report,2023.0,Year_2023_part_1_247004154.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,3240.0,19.0
+4187db32-8167-47be-ba83-693815e23b57,Date and Source Dimensions only,2021.0,Year_2021_part_1_247004154.csv,True,Validation passed,2021-07-13 00:00:00,2021-12-31,529.0,13.0
+4187db32-8167-47be-ba83-693815e23b57,Date and Source Dimensions only,2022.0,Year_2022_part_1_247004154.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,1098.0,13.0
+4187db32-8167-47be-ba83-693815e23b57,Date and Source Dimensions only,2023.0,Year_2023_part_1_247004154.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,578.0,13.0
+4187db32-8167-47be-ba83-693815e23b57,Event Dimensions report,,,False,Reports not available,,,,
+da27519b-fe53-42c3-808b-c22ec0cb396a,Page Dimensions report,2022.0,Year_2022_part_1_272958954.csv,True,Validation passed,2022-08-12 00:00:00,2022-12-29,257.0,19.0
+da27519b-fe53-42c3-808b-c22ec0cb396a,Page Dimensions report,2023.0,Year_2023_part_1_272958954.csv,True,Validation passed,2023-01-02 00:00:00,2023-06-30,247.0,19.0
+da27519b-fe53-42c3-808b-c22ec0cb396a,Date and Source Dimensions only,2022.0,Year_2022_part_1_272958954.csv,True,Validation passed,2022-08-12 00:00:00,2022-12-29,85.0,13.0
+da27519b-fe53-42c3-808b-c22ec0cb396a,Date and Source Dimensions only,2023.0,Year_2023_part_1_272958954.csv,True,Validation passed,2023-01-02 00:00:00,2023-06-30,136.0,13.0
+da27519b-fe53-42c3-808b-c22ec0cb396a,Event Dimensions report,,,False,Reports not available,,,,
+3bc27639-c079-4398-8588-072ec6d98890,Page Dimensions report,2020.0,Year_2020_part_1_216460028.csv,True,Validation passed,2020-04-23 00:00:00,2020-08-26,100000.0,19.0
+3bc27639-c079-4398-8588-072ec6d98890,Page Dimensions report,2020.0,Year_2020_part_2_216460028.csv,True,Validation passed,2020-08-26 00:00:00,2020-12-31,100000.0,19.0
+3bc27639-c079-4398-8588-072ec6d98890,Page Dimensions report,2020.0,Year_2020_part_3_216460028.csv,True,Validation passed,2020-12-31 00:00:00,2020-12-31,596.0,19.0
+3bc27639-c079-4398-8588-072ec6d98890,Page Dimensions report,2021.0,Year_2021_part_1_216460028.csv,True,Validation passed,2021-01-01 00:00:00,2021-04-29,100000.0,19.0
+3bc27639-c079-4398-8588-072ec6d98890,Page Dimensions report,2021.0,Year_2021_part_2_216460028.csv,True,Validation passed,2021-04-29 00:00:00,2021-08-30,100000.0,19.0
+3bc27639-c079-4398-8588-072ec6d98890,Page Dimensions report,2021.0,Year_2021_part_3_216460028.csv,True,Validation passed,2021-08-30 00:00:00,2021-12-14,100000.0,19.0
+3bc27639-c079-4398-8588-072ec6d98890,Page Dimensions report,2021.0,Year_2021_part_4_216460028.csv,True,Validation passed,2021-12-14 00:00:00,2021-12-31,15350.0,19.0
+3bc27639-c079-4398-8588-072ec6d98890,Page Dimensions report,2022.0,Year_2022_part_1_216460028.csv,True,Validation passed,2022-01-01 00:00:00,2022-04-05,100000.0,19.0
+3bc27639-c079-4398-8588-072ec6d98890,Page Dimensions report,2022.0,Year_2022_part_2_216460028.csv,True,Validation passed,2022-04-05 00:00:00,2022-07-20,100000.0,19.0
+3bc27639-c079-4398-8588-072ec6d98890,Page Dimensions report,2022.0,Year_2022_part_3_216460028.csv,True,Validation passed,2022-07-20 00:00:00,2022-11-01,100000.0,19.0
+3bc27639-c079-4398-8588-072ec6d98890,Page Dimensions report,2022.0,Year_2022_part_4_216460028.csv,True,Validation passed,2022-11-01 00:00:00,2022-12-31,54642.0,19.0
+3bc27639-c079-4398-8588-072ec6d98890,Page Dimensions report,2023.0,Year_2023_part_1_216460028.csv,True,Validation passed,2023-01-01 00:00:00,2023-04-05,100000.0,19.0
+3bc27639-c079-4398-8588-072ec6d98890,Page Dimensions report,2023.0,Year_2023_part_2_216460028.csv,True,Validation passed,2023-04-05 00:00:00,2023-07-18,100000.0,19.0
+3bc27639-c079-4398-8588-072ec6d98890,Page Dimensions report,2023.0,Year_2023_part_3_216460028.csv,True,Validation passed,2023-07-18 00:00:00,2023-10-04,76940.0,19.0
+3bc27639-c079-4398-8588-072ec6d98890,Date and Source Dimensions only,2020.0,Year_2020_part_1_216460028.csv,True,Validation passed,2020-04-23 00:00:00,2020-12-31,1382.0,13.0
+3bc27639-c079-4398-8588-072ec6d98890,Date and Source Dimensions only,2021.0,Year_2021_part_1_216460028.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,2275.0,13.0
+3bc27639-c079-4398-8588-072ec6d98890,Date and Source Dimensions only,2022.0,Year_2022_part_1_216460028.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,2585.0,13.0
+3bc27639-c079-4398-8588-072ec6d98890,Date and Source Dimensions only,2023.0,Year_2023_part_1_216460028.csv,True,Validation passed,2023-01-01 00:00:00,2023-10-04,2225.0,13.0
+3bc27639-c079-4398-8588-072ec6d98890,Event Dimensions report,2020.0,Year_2020_part_1_216460028.csv,True,Validation passed,2020-04-23 00:00:00,2020-08-17,100000.0,15.0
+3bc27639-c079-4398-8588-072ec6d98890,Event Dimensions report,2020.0,Year_2020_part_2_216460028.csv,True,Validation passed,2020-08-17 00:00:00,2020-12-01,100000.0,15.0
+3bc27639-c079-4398-8588-072ec6d98890,Event Dimensions report,2020.0,Year_2020_part_3_216460028.csv,True,Validation passed,2020-12-01 00:00:00,2020-12-31,25713.0,15.0
+3bc27639-c079-4398-8588-072ec6d98890,Event Dimensions report,2021.0,Year_2021_part_1_216460028.csv,True,Validation passed,2021-01-01 00:00:00,2021-04-15,100000.0,15.0
+3bc27639-c079-4398-8588-072ec6d98890,Event Dimensions report,2021.0,Year_2021_part_2_216460028.csv,True,Validation passed,2021-04-15 00:00:00,2021-07-29,100000.0,15.0
+3bc27639-c079-4398-8588-072ec6d98890,Event Dimensions report,2021.0,Year_2021_part_3_216460028.csv,True,Validation passed,2021-07-29 00:00:00,2021-10-27,100000.0,15.0
+3bc27639-c079-4398-8588-072ec6d98890,Event Dimensions report,2021.0,Year_2021_part_4_216460028.csv,True,Validation passed,2021-10-27 00:00:00,2021-12-31,73901.0,15.0
+3bc27639-c079-4398-8588-072ec6d98890,Event Dimensions report,2022.0,Year_2022_part_1_216460028.csv,True,Validation passed,2022-01-01 00:00:00,2022-03-22,100000.0,15.0
+3bc27639-c079-4398-8588-072ec6d98890,Event Dimensions report,2022.0,Year_2022_part_2_216460028.csv,True,Validation passed,2022-03-22 00:00:00,2022-06-24,100000.0,15.0
+3bc27639-c079-4398-8588-072ec6d98890,Event Dimensions report,2022.0,Year_2022_part_3_216460028.csv,True,Validation passed,2022-06-24 00:00:00,2022-10-03,100000.0,15.0
+3bc27639-c079-4398-8588-072ec6d98890,Event Dimensions report,2022.0,Year_2022_part_4_216460028.csv,True,Validation passed,2022-10-03 00:00:00,2022-12-31,88525.0,15.0
+3bc27639-c079-4398-8588-072ec6d98890,Event Dimensions report,2023.0,Year_2023_part_1_216460028.csv,True,Validation passed,2023-01-01 00:00:00,2023-04-03,100000.0,15.0
+3bc27639-c079-4398-8588-072ec6d98890,Event Dimensions report,2023.0,Year_2023_part_2_216460028.csv,True,Validation passed,2023-04-03 00:00:00,2023-07-13,100000.0,15.0
+3bc27639-c079-4398-8588-072ec6d98890,Event Dimensions report,2023.0,Year_2023_part_3_216460028.csv,True,Validation passed,2023-07-13 00:00:00,2023-10-04,84761.0,15.0
+68c4f846-49b7-4327-8be2-2368d083af22,Page Dimensions report,2022.0,Year_2022_part_1_216474274.csv,True,Validation passed,2022-04-27 00:00:00,2022-07-18,100000.0,19.0
+68c4f846-49b7-4327-8be2-2368d083af22,Page Dimensions report,2022.0,Year_2022_part_2_216474274.csv,True,Validation passed,2022-07-18 00:00:00,2022-10-04,100000.0,19.0
+68c4f846-49b7-4327-8be2-2368d083af22,Page Dimensions report,2022.0,Year_2022_part_3_216474274.csv,True,Validation passed,2022-10-04 00:00:00,2022-12-23,100000.0,19.0
+68c4f846-49b7-4327-8be2-2368d083af22,Page Dimensions report,2022.0,Year_2022_part_4_216474274.csv,True,Validation passed,2022-12-23 00:00:00,2022-12-31,4684.0,19.0
+68c4f846-49b7-4327-8be2-2368d083af22,Page Dimensions report,2023.0,Year_2023_part_1_216474274.csv,True,Validation passed,2023-01-01 00:00:00,2023-03-15,100000.0,19.0
+68c4f846-49b7-4327-8be2-2368d083af22,Page Dimensions report,2023.0,Year_2023_part_2_216474274.csv,True,Validation passed,2023-03-15 00:00:00,2023-05-31,100000.0,19.0
+68c4f846-49b7-4327-8be2-2368d083af22,Page Dimensions report,2023.0,Year_2023_part_3_216474274.csv,True,Validation passed,2023-05-31 00:00:00,2023-08-15,100000.0,19.0
+68c4f846-49b7-4327-8be2-2368d083af22,Page Dimensions report,2023.0,Year_2023_part_4_216474274.csv,True,Validation passed,2023-08-15 00:00:00,2023-10-04,64791.0,19.0
+68c4f846-49b7-4327-8be2-2368d083af22,Date and Source Dimensions only,2020.0,Year_2020_part_1_216474274.csv,True,Validation passed,2020-04-23 00:00:00,2020-12-31,1466.0,13.0
+68c4f846-49b7-4327-8be2-2368d083af22,Date and Source Dimensions only,2021.0,Year_2021_part_1_216474274.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,2077.0,13.0
+68c4f846-49b7-4327-8be2-2368d083af22,Date and Source Dimensions only,2022.0,Year_2022_part_1_216474274.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,2089.0,13.0
+68c4f846-49b7-4327-8be2-2368d083af22,Date and Source Dimensions only,2023.0,Year_2023_part_1_216474274.csv,True,Validation passed,2023-01-01 00:00:00,2023-10-04,1621.0,13.0
+68c4f846-49b7-4327-8be2-2368d083af22,Event Dimensions report,,,False,Reports not available,,,,
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Page Dimensions report,2022.0,Year_2022_part_10_216479816.csv,True,Validation passed,2022-12-02 00:00:00,2022-12-31,100000.0,19.0
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Page Dimensions report,2022.0,Year_2022_part_1_216479816.csv,False,Null values found,(other),2022-05-23,100000.0,19.0
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Page Dimensions report,2022.0,Year_2022_part_2_216479816.csv,True,Validation passed,2022-05-23 00:00:00,2022-06-17,100000.0,19.0
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Page Dimensions report,2022.0,Year_2022_part_3_216479816.csv,True,Validation passed,2022-06-17 00:00:00,2022-07-12,100000.0,19.0
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Page Dimensions report,2022.0,Year_2022_part_4_216479816.csv,True,Validation passed,2022-07-12 00:00:00,2022-08-03,100000.0,19.0
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Page Dimensions report,2022.0,Year_2022_part_5_216479816.csv,True,Validation passed,2022-08-03 00:00:00,2022-08-25,100000.0,19.0
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Page Dimensions report,2022.0,Year_2022_part_6_216479816.csv,True,Validation passed,2022-08-25 00:00:00,2022-09-19,100000.0,19.0
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Page Dimensions report,2022.0,Year_2022_part_7_216479816.csv,True,Validation passed,2022-09-19 00:00:00,2022-10-11,100000.0,19.0
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Page Dimensions report,2022.0,Year_2022_part_8_216479816.csv,True,Validation passed,2022-10-11 00:00:00,2022-11-03,100000.0,19.0
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Page Dimensions report,2022.0,Year_2022_part_9_216479816.csv,True,Validation passed,2022-11-03 00:00:00,2022-12-02,100000.0,19.0
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Page Dimensions report,2023.0,Year_2023_part_10_216479816.csv,True,Validation passed,2023-09-07 00:00:00,2023-10-04,100000.0,19.0
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Page Dimensions report,2023.0,Year_2023_part_1_216479816.csv,False,Null values found,(other),2023-01-25,100000.0,19.0
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Page Dimensions report,2023.0,Year_2023_part_2_216479816.csv,True,Validation passed,2023-01-25 00:00:00,2023-02-22,100000.0,19.0
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Page Dimensions report,2023.0,Year_2023_part_3_216479816.csv,True,Validation passed,2023-02-22 00:00:00,2023-03-22,100000.0,19.0
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Page Dimensions report,2023.0,Year_2023_part_4_216479816.csv,True,Validation passed,2023-03-22 00:00:00,2023-04-20,100000.0,19.0
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Page Dimensions report,2023.0,Year_2023_part_5_216479816.csv,True,Validation passed,2023-04-20 00:00:00,2023-05-18,100000.0,19.0
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Page Dimensions report,2023.0,Year_2023_part_6_216479816.csv,True,Validation passed,2023-05-18 00:00:00,2023-06-16,100000.0,19.0
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Page Dimensions report,2023.0,Year_2023_part_7_216479816.csv,True,Validation passed,2023-06-15 00:00:00,2023-07-14,100000.0,19.0
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Page Dimensions report,2023.0,Year_2023_part_8_216479816.csv,True,Validation passed,2023-07-14 00:00:00,2023-08-09,100000.0,19.0
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Page Dimensions report,2023.0,Year_2023_part_9_216479816.csv,True,Validation passed,2023-08-10 00:00:00,2023-09-07,100000.0,19.0
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Date and Source Dimensions only,2020.0,Year_2020_part_1_216479816.csv,True,Validation passed,2020-04-23 00:00:00,2020-12-31,1854.0,13.0
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Date and Source Dimensions only,2021.0,Year_2021_part_1_216479816.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,2253.0,13.0
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Date and Source Dimensions only,2022.0,Year_2022_part_1_216479816.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,1894.0,13.0
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Date and Source Dimensions only,2023.0,Year_2023_part_1_216479816.csv,True,Validation passed,2023-01-01 00:00:00,2023-10-04,1771.0,13.0
+c7dcc1c5-b6b4-4738-a391-fb9a958a4e9b,Event Dimensions report,,,False,Reports not available,,,,
+bcb8cf71-bf4d-4a28-b3a8-3c67983bd6e6,Page Dimensions report,2022.0,Year_2022_part_1_151230753.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,621.0,19.0
+bcb8cf71-bf4d-4a28-b3a8-3c67983bd6e6,Page Dimensions report,2023.0,Year_2023_part_1_151230753.csv,True,Validation passed,2023-01-03 00:00:00,2023-07-15,584.0,19.0
+bcb8cf71-bf4d-4a28-b3a8-3c67983bd6e6,Date and Source Dimensions only,2017.0,Year_2017_part_1_151230753.csv,True,Validation passed,2017-05-23 00:00:00,2017-12-29,115.0,13.0
+bcb8cf71-bf4d-4a28-b3a8-3c67983bd6e6,Date and Source Dimensions only,2018.0,Year_2018_part_1_151230753.csv,True,Validation passed,2018-01-01 00:00:00,2018-12-31,353.0,13.0
+bcb8cf71-bf4d-4a28-b3a8-3c67983bd6e6,Date and Source Dimensions only,2019.0,Year_2019_part_1_151230753.csv,True,Validation passed,2019-01-01 00:00:00,2019-12-31,373.0,13.0
+bcb8cf71-bf4d-4a28-b3a8-3c67983bd6e6,Date and Source Dimensions only,2020.0,Year_2020_part_1_151230753.csv,True,Validation passed,2020-01-01 00:00:00,2020-12-31,431.0,13.0
+bcb8cf71-bf4d-4a28-b3a8-3c67983bd6e6,Date and Source Dimensions only,2021.0,Year_2021_part_1_151230753.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-30,385.0,13.0
+bcb8cf71-bf4d-4a28-b3a8-3c67983bd6e6,Date and Source Dimensions only,2022.0,Year_2022_part_1_151230753.csv,True,Validation passed,2022-01-02 00:00:00,2022-12-31,390.0,13.0
+bcb8cf71-bf4d-4a28-b3a8-3c67983bd6e6,Date and Source Dimensions only,2023.0,Year_2023_part_1_151230753.csv,True,Validation passed,2023-01-03 00:00:00,2023-07-15,233.0,13.0
+bcb8cf71-bf4d-4a28-b3a8-3c67983bd6e6,Event Dimensions report,2022.0,Year_2022_part_1_151230753.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,423.0,15.0
+bcb8cf71-bf4d-4a28-b3a8-3c67983bd6e6,Event Dimensions report,2023.0,Year_2023_part_1_151230753.csv,True,Validation passed,2023-01-03 00:00:00,2023-07-15,418.0,15.0
+2b4cee6e-9c52-45b6-ad10-5fe226eddfaf,Page Dimensions report,2022.0,Year_2022_part_1_134124636.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,5681.0,19.0
+2b4cee6e-9c52-45b6-ad10-5fe226eddfaf,Page Dimensions report,2023.0,Year_2023_part_1_134124636.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,3510.0,19.0
+2b4cee6e-9c52-45b6-ad10-5fe226eddfaf,Date and Source Dimensions only,2016.0,Year_2016_part_1_134124636.csv,True,Validation passed,2016-11-22 00:00:00,2016-12-31,79.0,13.0
+2b4cee6e-9c52-45b6-ad10-5fe226eddfaf,Date and Source Dimensions only,2017.0,Year_2017_part_1_134124636.csv,True,Validation passed,2017-01-01 00:00:00,2017-12-31,1468.0,13.0
+2b4cee6e-9c52-45b6-ad10-5fe226eddfaf,Date and Source Dimensions only,2018.0,Year_2018_part_1_134124636.csv,True,Validation passed,2018-01-01 00:00:00,2018-12-31,1750.0,13.0
+2b4cee6e-9c52-45b6-ad10-5fe226eddfaf,Date and Source Dimensions only,2019.0,Year_2019_part_1_134124636.csv,True,Validation passed,2019-01-01 00:00:00,2019-12-31,1591.0,13.0
+2b4cee6e-9c52-45b6-ad10-5fe226eddfaf,Date and Source Dimensions only,2020.0,Year_2020_part_1_134124636.csv,True,Validation passed,2020-01-01 00:00:00,2020-12-31,1569.0,13.0
+2b4cee6e-9c52-45b6-ad10-5fe226eddfaf,Date and Source Dimensions only,2021.0,Year_2021_part_1_134124636.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,1187.0,13.0
+2b4cee6e-9c52-45b6-ad10-5fe226eddfaf,Date and Source Dimensions only,2022.0,Year_2022_part_1_134124636.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,1194.0,13.0
+2b4cee6e-9c52-45b6-ad10-5fe226eddfaf,Date and Source Dimensions only,2023.0,Year_2023_part_1_134124636.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,528.0,13.0
+2b4cee6e-9c52-45b6-ad10-5fe226eddfaf,Event Dimensions report,2022.0,Year_2022_part_1_134124636.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,5279.0,15.0
+2b4cee6e-9c52-45b6-ad10-5fe226eddfaf,Event Dimensions report,2023.0,Year_2023_part_1_134124636.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-04,232.0,15.0
+36942bd4-43c0-40f3-98ac-db0f440a2f4a,Page Dimensions report,2022.0,Year_2022_part_1_247560403.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,516.0,19.0
+36942bd4-43c0-40f3-98ac-db0f440a2f4a,Page Dimensions report,2023.0,Year_2023_part_1_247560403.csv,True,Validation passed,2023-01-02 00:00:00,2023-07-15,442.0,19.0
+36942bd4-43c0-40f3-98ac-db0f440a2f4a,Date and Source Dimensions only,2021.0,Year_2021_part_1_247560403.csv,True,Validation passed,2021-07-21 00:00:00,2021-12-31,127.0,13.0
+36942bd4-43c0-40f3-98ac-db0f440a2f4a,Date and Source Dimensions only,2022.0,Year_2022_part_1_247560403.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,325.0,13.0
+36942bd4-43c0-40f3-98ac-db0f440a2f4a,Date and Source Dimensions only,2023.0,Year_2023_part_1_247560403.csv,True,Validation passed,2023-01-02 00:00:00,2023-07-15,173.0,13.0
+36942bd4-43c0-40f3-98ac-db0f440a2f4a,Event Dimensions report,2022.0,Year_2022_part_1_247560403.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-30,677.0,15.0
+36942bd4-43c0-40f3-98ac-db0f440a2f4a,Event Dimensions report,2023.0,Year_2023_part_1_247560403.csv,True,Validation passed,2023-01-02 00:00:00,2023-07-15,517.0,15.0
+aff41cd6-4e49-46a4-89cd-d580e2e2ac22,Page Dimensions report,2022.0,Year_2022_part_1_251843809.csv,True,Validation passed,2022-06-09 00:00:00,2022-11-16,5.0,19.0
+aff41cd6-4e49-46a4-89cd-d580e2e2ac22,Page Dimensions report,2023.0,Year_2023_part_1_251843809.csv,True,Validation passed,2023-03-17 00:00:00,2023-03-21,3.0,19.0
+aff41cd6-4e49-46a4-89cd-d580e2e2ac22,Date and Source Dimensions only,2021.0,Year_2021_part_1_251843809.csv,True,Validation passed,2021-10-04 00:00:00,2021-12-15,5.0,13.0
+aff41cd6-4e49-46a4-89cd-d580e2e2ac22,Date and Source Dimensions only,2022.0,Year_2022_part_1_251843809.csv,True,Validation passed,2022-01-19 00:00:00,2022-11-16,10.0,13.0
+aff41cd6-4e49-46a4-89cd-d580e2e2ac22,Date and Source Dimensions only,2023.0,Year_2023_part_1_251843809.csv,True,Validation passed,2023-03-17 00:00:00,2023-03-21,3.0,13.0
+aff41cd6-4e49-46a4-89cd-d580e2e2ac22,Event Dimensions report,2023.0,Year_2023_part_1_251843809.csv,True,Validation passed,2023-03-17 00:00:00,2023-03-17,1.0,15.0
+8700d76f-26f3-44d3-9d3f-04742be04f6b,Page Dimensions report,2022.0,Year_2022_part_1_245176468.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,601.0,19.0
+8700d76f-26f3-44d3-9d3f-04742be04f6b,Page Dimensions report,2023.0,Year_2023_part_1_245176468.csv,True,Validation passed,2023-01-02 00:00:00,2023-07-16,356.0,19.0
+8700d76f-26f3-44d3-9d3f-04742be04f6b,Date and Source Dimensions only,2021.0,Year_2021_part_1_245176468.csv,True,Validation passed,2021-06-22 00:00:00,2021-12-31,226.0,13.0
+8700d76f-26f3-44d3-9d3f-04742be04f6b,Date and Source Dimensions only,2022.0,Year_2022_part_1_245176468.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,420.0,13.0
+8700d76f-26f3-44d3-9d3f-04742be04f6b,Date and Source Dimensions only,2023.0,Year_2023_part_1_245176468.csv,True,Validation passed,2023-01-02 00:00:00,2023-07-16,196.0,13.0
+8700d76f-26f3-44d3-9d3f-04742be04f6b,Event Dimensions report,2022.0,Year_2022_part_1_245176468.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,550.0,15.0
+8700d76f-26f3-44d3-9d3f-04742be04f6b,Event Dimensions report,2023.0,Year_2023_part_1_245176468.csv,True,Validation passed,2023-01-02 00:00:00,2023-07-16,302.0,15.0
+65fbc03c-4906-4b86-b779-93f6a24c0adf,Page Dimensions report,,,False,Reports not available,,,,
+65fbc03c-4906-4b86-b779-93f6a24c0adf,Date and Source Dimensions only,2016.0,Year_2016_part_1_128350361.csv,True,Validation passed,2016-10-12 00:00:00,2016-12-30,37.0,13.0
+65fbc03c-4906-4b86-b779-93f6a24c0adf,Date and Source Dimensions only,2017.0,Year_2017_part_1_128350361.csv,True,Validation passed,2017-01-02 00:00:00,2017-12-29,210.0,13.0
+65fbc03c-4906-4b86-b779-93f6a24c0adf,Date and Source Dimensions only,2018.0,Year_2018_part_1_128350361.csv,True,Validation passed,2018-01-01 00:00:00,2018-12-28,275.0,13.0
+65fbc03c-4906-4b86-b779-93f6a24c0adf,Date and Source Dimensions only,2019.0,Year_2019_part_1_128350361.csv,True,Validation passed,2019-01-02 00:00:00,2019-12-27,211.0,13.0
+65fbc03c-4906-4b86-b779-93f6a24c0adf,Date and Source Dimensions only,2020.0,Year_2020_part_1_128350361.csv,True,Validation passed,2020-01-02 00:00:00,2020-05-29,96.0,13.0
+65fbc03c-4906-4b86-b779-93f6a24c0adf,Event Dimensions report,,,False,Reports not available,,,,
+b44ba43c-1ad9-41a6-900f-f3726bd1b567,Page Dimensions report,2022.0,Year_2022_part_1_241109514.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,469.0,19.0
+b44ba43c-1ad9-41a6-900f-f3726bd1b567,Page Dimensions report,2023.0,Year_2023_part_1_241109514.csv,True,Validation passed,2023-01-02 00:00:00,2023-07-16,669.0,19.0
+b44ba43c-1ad9-41a6-900f-f3726bd1b567,Date and Source Dimensions only,2021.0,Year_2021_part_1_241109514.csv,True,Validation passed,2021-04-14 00:00:00,2021-12-31,191.0,13.0
+b44ba43c-1ad9-41a6-900f-f3726bd1b567,Date and Source Dimensions only,2022.0,Year_2022_part_1_241109514.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,412.0,13.0
+b44ba43c-1ad9-41a6-900f-f3726bd1b567,Date and Source Dimensions only,2023.0,Year_2023_part_1_241109514.csv,True,Validation passed,2023-01-02 00:00:00,2023-07-16,297.0,13.0
+b44ba43c-1ad9-41a6-900f-f3726bd1b567,Event Dimensions report,2022.0,Year_2022_part_1_241109514.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-30,348.0,15.0
+b44ba43c-1ad9-41a6-900f-f3726bd1b567,Event Dimensions report,2023.0,Year_2023_part_1_241109514.csv,True,Validation passed,2023-01-02 00:00:00,2023-07-16,533.0,15.0
+5e771905-bea9-465f-8f4b-c211d534650b,Page Dimensions report,2022.0,Year_2022_part_1_198257132.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,2309.0,19.0
+5e771905-bea9-465f-8f4b-c211d534650b,Page Dimensions report,2023.0,Year_2023_part_1_198257132.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,1718.0,19.0
+5e771905-bea9-465f-8f4b-c211d534650b,Date and Source Dimensions only,2020.0,Year_2020_part_1_198257132.csv,True,Validation passed,2020-05-04 00:00:00,2020-12-31,222.0,13.0
+5e771905-bea9-465f-8f4b-c211d534650b,Date and Source Dimensions only,2021.0,Year_2021_part_1_198257132.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,728.0,13.0
+5e771905-bea9-465f-8f4b-c211d534650b,Date and Source Dimensions only,2022.0,Year_2022_part_1_198257132.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,736.0,13.0
+5e771905-bea9-465f-8f4b-c211d534650b,Date and Source Dimensions only,2023.0,Year_2023_part_1_198257132.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,401.0,13.0
+5e771905-bea9-465f-8f4b-c211d534650b,Event Dimensions report,2022.0,Year_2022_part_1_198257132.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,2223.0,15.0
+5e771905-bea9-465f-8f4b-c211d534650b,Event Dimensions report,2023.0,Year_2023_part_1_198257132.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,1594.0,15.0
+97eaa57c-cbd5-4ef0-b597-d00c729a5862,Page Dimensions report,2022.0,Year_2022_part_1_76462026.csv,True,Validation passed,2022-04-28 00:00:00,2022-12-25,39.0,19.0
+97eaa57c-cbd5-4ef0-b597-d00c729a5862,Page Dimensions report,2023.0,Year_2023_part_1_76462026.csv,True,Validation passed,2023-01-10 00:00:00,2023-06-25,29.0,19.0
+97eaa57c-cbd5-4ef0-b597-d00c729a5862,Date and Source Dimensions only,2013.0,Year_2013_part_1_76462026.csv,True,Validation passed,2013-09-27 00:00:00,2013-12-31,54.0,13.0
+97eaa57c-cbd5-4ef0-b597-d00c729a5862,Date and Source Dimensions only,2014.0,Year_2014_part_1_76462026.csv,True,Validation passed,2014-01-03 00:00:00,2014-12-31,407.0,13.0
+97eaa57c-cbd5-4ef0-b597-d00c729a5862,Date and Source Dimensions only,2015.0,Year_2015_part_1_76462026.csv,True,Validation passed,2015-01-01 00:00:00,2015-12-31,406.0,13.0
+97eaa57c-cbd5-4ef0-b597-d00c729a5862,Date and Source Dimensions only,2016.0,Year_2016_part_1_76462026.csv,True,Validation passed,2016-01-04 00:00:00,2016-12-31,224.0,13.0
+97eaa57c-cbd5-4ef0-b597-d00c729a5862,Date and Source Dimensions only,2017.0,Year_2017_part_1_76462026.csv,True,Validation passed,2017-01-01 00:00:00,2017-12-29,179.0,13.0
+97eaa57c-cbd5-4ef0-b597-d00c729a5862,Date and Source Dimensions only,2018.0,Year_2018_part_1_76462026.csv,True,Validation passed,2018-01-02 00:00:00,2018-12-29,244.0,13.0
+97eaa57c-cbd5-4ef0-b597-d00c729a5862,Date and Source Dimensions only,2019.0,Year_2019_part_1_76462026.csv,True,Validation passed,2019-01-01 00:00:00,2019-12-30,210.0,13.0
+97eaa57c-cbd5-4ef0-b597-d00c729a5862,Date and Source Dimensions only,2020.0,Year_2020_part_1_76462026.csv,True,Validation passed,2020-01-01 00:00:00,2020-12-31,158.0,13.0
+97eaa57c-cbd5-4ef0-b597-d00c729a5862,Date and Source Dimensions only,2021.0,Year_2021_part_1_76462026.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-28,110.0,13.0
+97eaa57c-cbd5-4ef0-b597-d00c729a5862,Date and Source Dimensions only,2022.0,Year_2022_part_1_76462026.csv,True,Validation passed,2022-01-06 00:00:00,2022-12-25,59.0,13.0
+97eaa57c-cbd5-4ef0-b597-d00c729a5862,Date and Source Dimensions only,2023.0,Year_2023_part_1_76462026.csv,True,Validation passed,2023-01-10 00:00:00,2023-06-25,28.0,13.0
+97eaa57c-cbd5-4ef0-b597-d00c729a5862,Event Dimensions report,2022.0,Year_2022_part_1_76462026.csv,True,Validation passed,2022-06-08 00:00:00,2022-12-09,18.0,15.0
+97eaa57c-cbd5-4ef0-b597-d00c729a5862,Event Dimensions report,2023.0,Year_2023_part_1_76462026.csv,True,Validation passed,2023-01-10 00:00:00,2023-06-13,10.0,15.0
+c241852c-aef2-4174-99d2-2e98d04ebba0,Page Dimensions report,2022.0,Year_2022_part_1_202631397.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,4030.0,19.0
+c241852c-aef2-4174-99d2-2e98d04ebba0,Page Dimensions report,2023.0,Year_2023_part_1_202631397.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,2991.0,19.0
+c241852c-aef2-4174-99d2-2e98d04ebba0,Date and Source Dimensions only,2020.0,Year_2020_part_1_202631397.csv,True,Validation passed,2020-05-04 00:00:00,2020-12-31,560.0,13.0
+c241852c-aef2-4174-99d2-2e98d04ebba0,Date and Source Dimensions only,2021.0,Year_2021_part_1_202631397.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,841.0,13.0
+c241852c-aef2-4174-99d2-2e98d04ebba0,Date and Source Dimensions only,2022.0,Year_2022_part_1_202631397.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,925.0,13.0
+c241852c-aef2-4174-99d2-2e98d04ebba0,Date and Source Dimensions only,2023.0,Year_2023_part_1_202631397.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,524.0,13.0
+c241852c-aef2-4174-99d2-2e98d04ebba0,Event Dimensions report,2022.0,Year_2022_part_1_202631397.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,3586.0,15.0
+c241852c-aef2-4174-99d2-2e98d04ebba0,Event Dimensions report,2023.0,Year_2023_part_1_202631397.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,2762.0,15.0
+70926abd-5c46-485b-820a-825a44009686,Page Dimensions report,2022.0,Year_2022_part_1_237917998.csv,True,Validation passed,2022-04-28 00:00:00,2022-12-16,103.0,19.0
+70926abd-5c46-485b-820a-825a44009686,Page Dimensions report,2023.0,Year_2023_part_1_237917998.csv,True,Validation passed,2023-01-10 00:00:00,2023-06-27,52.0,19.0
+70926abd-5c46-485b-820a-825a44009686,Date and Source Dimensions only,2021.0,Year_2021_part_1_237917998.csv,True,Validation passed,2021-02-24 00:00:00,2021-12-31,86.0,13.0
+70926abd-5c46-485b-820a-825a44009686,Date and Source Dimensions only,2022.0,Year_2022_part_1_237917998.csv,True,Validation passed,2022-01-07 00:00:00,2022-12-16,107.0,13.0
+70926abd-5c46-485b-820a-825a44009686,Date and Source Dimensions only,2023.0,Year_2023_part_1_237917998.csv,True,Validation passed,2023-01-10 00:00:00,2023-06-27,47.0,13.0
+70926abd-5c46-485b-820a-825a44009686,Event Dimensions report,2022.0,Year_2022_part_1_237917998.csv,True,Validation passed,2022-04-28 00:00:00,2022-12-16,76.0,15.0
+70926abd-5c46-485b-820a-825a44009686,Event Dimensions report,2023.0,Year_2023_part_1_237917998.csv,True,Validation passed,2023-01-10 00:00:00,2023-06-27,31.0,15.0
+1e61b05a-660c-4243-9263-ac2f12bebc2a,Page Dimensions report,2022.0,Year_2022_part_1_216601592.csv,True,Validation passed,2022-04-27 00:00:00,2022-12-31,14506.0,19.0
+1e61b05a-660c-4243-9263-ac2f12bebc2a,Page Dimensions report,2023.0,Year_2023_part_1_216601592.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,19812.0,19.0
+1e61b05a-660c-4243-9263-ac2f12bebc2a,Date and Source Dimensions only,2020.0,Year_2020_part_1_216601592.csv,True,Validation passed,2020-04-24 00:00:00,2020-12-31,738.0,13.0
+1e61b05a-660c-4243-9263-ac2f12bebc2a,Date and Source Dimensions only,2021.0,Year_2021_part_1_216601592.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,1230.0,13.0
+1e61b05a-660c-4243-9263-ac2f12bebc2a,Date and Source Dimensions only,2022.0,Year_2022_part_1_216601592.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,1372.0,13.0
+1e61b05a-660c-4243-9263-ac2f12bebc2a,Date and Source Dimensions only,2023.0,Year_2023_part_1_216601592.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,678.0,13.0
+1e61b05a-660c-4243-9263-ac2f12bebc2a,Event Dimensions report,2022.0,Year_2022_part_1_216601592.csv,True,Validation passed,2022-04-27 00:00:00,2022-12-31,16799.0,15.0
+1e61b05a-660c-4243-9263-ac2f12bebc2a,Event Dimensions report,2023.0,Year_2023_part_1_216601592.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,27074.0,15.0
+20a393a4-65c8-4286-85d6-73bc2432ccc5,Page Dimensions report,,,False,Reports not available,,,,
+20a393a4-65c8-4286-85d6-73bc2432ccc5,Date and Source Dimensions only,2018.0,Year_2018_part_1_177891103.csv,True,Validation passed,2018-07-19 00:00:00,2018-12-30,203.0,13.0
+20a393a4-65c8-4286-85d6-73bc2432ccc5,Date and Source Dimensions only,2019.0,Year_2019_part_1_177891103.csv,True,Validation passed,2019-01-01 00:00:00,2019-12-31,382.0,13.0
+20a393a4-65c8-4286-85d6-73bc2432ccc5,Date and Source Dimensions only,2020.0,Year_2020_part_1_177891103.csv,True,Validation passed,2020-01-01 00:00:00,2020-12-31,370.0,13.0
+20a393a4-65c8-4286-85d6-73bc2432ccc5,Date and Source Dimensions only,2021.0,Year_2021_part_1_177891103.csv,True,Validation passed,2021-01-01 00:00:00,2021-11-18,347.0,13.0
+20a393a4-65c8-4286-85d6-73bc2432ccc5,Event Dimensions report,,,False,Reports not available,,,,
+d3097436-6b8d-4a67-84f1-a6148c945a33,Page Dimensions report,2022.0,Year_2022_part_1_224096227.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,450.0,19.0
+d3097436-6b8d-4a67-84f1-a6148c945a33,Page Dimensions report,2023.0,Year_2023_part_1_224096227.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,277.0,19.0
+d3097436-6b8d-4a67-84f1-a6148c945a33,Date and Source Dimensions only,2020.0,Year_2020_part_1_224096227.csv,True,Validation passed,2020-07-15 00:00:00,2020-12-31,200.0,13.0
+d3097436-6b8d-4a67-84f1-a6148c945a33,Date and Source Dimensions only,2021.0,Year_2021_part_1_224096227.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,354.0,13.0
+d3097436-6b8d-4a67-84f1-a6148c945a33,Date and Source Dimensions only,2022.0,Year_2022_part_1_224096227.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,396.0,13.0
+d3097436-6b8d-4a67-84f1-a6148c945a33,Date and Source Dimensions only,2023.0,Year_2023_part_1_224096227.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,167.0,13.0
+d3097436-6b8d-4a67-84f1-a6148c945a33,Event Dimensions report,2022.0,Year_2022_part_1_224096227.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,346.0,15.0
+d3097436-6b8d-4a67-84f1-a6148c945a33,Event Dimensions report,2023.0,Year_2023_part_1_224096227.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,213.0,15.0
+77cc0b00-a8c5-4edd-9e92-72cd3dc4fce5,Page Dimensions report,2022.0,Year_2022_part_1_203892780.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,1456.0,19.0
+77cc0b00-a8c5-4edd-9e92-72cd3dc4fce5,Page Dimensions report,2023.0,Year_2023_part_1_203892780.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,1155.0,19.0
+77cc0b00-a8c5-4edd-9e92-72cd3dc4fce5,Date and Source Dimensions only,2019.0,Year_2019_part_1_203892780.csv,True,Validation passed,2019-10-18 00:00:00,2019-12-31,46.0,13.0
+77cc0b00-a8c5-4edd-9e92-72cd3dc4fce5,Date and Source Dimensions only,2020.0,Year_2020_part_1_203892780.csv,True,Validation passed,2020-01-02 00:00:00,2020-12-31,304.0,13.0
+77cc0b00-a8c5-4edd-9e92-72cd3dc4fce5,Date and Source Dimensions only,2021.0,Year_2021_part_1_203892780.csv,True,Validation passed,2021-01-02 00:00:00,2021-12-31,434.0,13.0
+77cc0b00-a8c5-4edd-9e92-72cd3dc4fce5,Date and Source Dimensions only,2022.0,Year_2022_part_1_203892780.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,587.0,13.0
+77cc0b00-a8c5-4edd-9e92-72cd3dc4fce5,Date and Source Dimensions only,2023.0,Year_2023_part_1_203892780.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,358.0,13.0
+77cc0b00-a8c5-4edd-9e92-72cd3dc4fce5,Event Dimensions report,2022.0,Year_2022_part_1_203892780.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,1334.0,15.0
+77cc0b00-a8c5-4edd-9e92-72cd3dc4fce5,Event Dimensions report,2023.0,Year_2023_part_1_203892780.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,1018.0,15.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Page Dimensions report,2022.0,Year_2022_part_1_123122523.csv,True,Validation passed,2022-04-27 00:00:00,2022-06-23,100000.0,19.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Page Dimensions report,2022.0,Year_2022_part_2_123122523.csv,True,Validation passed,2022-06-23 00:00:00,2022-08-18,100000.0,19.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Page Dimensions report,2022.0,Year_2022_part_3_123122523.csv,True,Validation passed,2022-08-18 00:00:00,2022-10-13,100000.0,19.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Page Dimensions report,2022.0,Year_2022_part_4_123122523.csv,True,Validation passed,2022-10-13 00:00:00,2022-12-03,100000.0,19.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Page Dimensions report,2022.0,Year_2022_part_5_123122523.csv,True,Validation passed,2022-12-03 00:00:00,2022-12-31,48790.0,19.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Page Dimensions report,2023.0,Year_2023_part_1_123122523.csv,True,Validation passed,2023-01-01 00:00:00,2023-02-22,100000.0,19.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Page Dimensions report,2023.0,Year_2023_part_2_123122523.csv,True,Validation passed,2023-02-22 00:00:00,2023-04-18,100000.0,19.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Page Dimensions report,2023.0,Year_2023_part_3_123122523.csv,True,Validation passed,2023-04-18 00:00:00,2023-06-15,100000.0,19.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Page Dimensions report,2023.0,Year_2023_part_4_123122523.csv,True,Validation passed,2023-06-15 00:00:00,2023-08-08,100000.0,19.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Page Dimensions report,2023.0,Year_2023_part_5_123122523.csv,True,Validation passed,2023-08-08 00:00:00,2023-09-07,54497.0,19.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Date and Source Dimensions only,2016.0,Year_2016_part_1_123122523.csv,True,Validation passed,2016-06-29 00:00:00,2016-12-31,35090.0,13.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Date and Source Dimensions only,2017.0,Year_2017_part_1_123122523.csv,True,Validation passed,2017-01-01 00:00:00,2017-12-31,81178.0,13.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Date and Source Dimensions only,2018.0,Year_2018_part_1_123122523.csv,True,Validation passed,2018-01-01 00:00:00,2018-12-31,82536.0,13.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Date and Source Dimensions only,2019.0,Year_2019_part_1_123122523.csv,True,Validation passed,2019-01-01 00:00:00,2019-12-31,86189.0,13.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Date and Source Dimensions only,2020.0,Year_2020_part_1_123122523.csv,True,Validation passed,2020-01-01 00:00:00,2020-12-31,84710.0,13.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Date and Source Dimensions only,2021.0,Year_2021_part_1_123122523.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,83523.0,13.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Date and Source Dimensions only,2022.0,Year_2022_part_1_123122523.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,74029.0,13.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Date and Source Dimensions only,2023.0,Year_2023_part_1_123122523.csv,True,Validation passed,2023-01-01 00:00:00,2023-09-07,53272.0,13.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Event Dimensions report,2022.0,Year_2022_part_1_123122523.csv,True,Validation passed,2022-04-27 00:00:00,2022-06-16,100000.0,15.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Event Dimensions report,2022.0,Year_2022_part_2_123122523.csv,True,Validation passed,2022-06-16 00:00:00,2022-08-08,100000.0,15.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Event Dimensions report,2022.0,Year_2022_part_3_123122523.csv,True,Validation passed,2022-08-08 00:00:00,2022-09-28,100000.0,15.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Event Dimensions report,2022.0,Year_2022_part_4_123122523.csv,True,Validation passed,2022-09-28 00:00:00,2022-11-15,100000.0,15.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Event Dimensions report,2022.0,Year_2022_part_5_123122523.csv,True,Validation passed,2022-11-15 00:00:00,2022-12-31,87253.0,15.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Event Dimensions report,2023.0,Year_2023_part_1_123122523.csv,True,Validation passed,2023-01-01 00:00:00,2023-02-18,100000.0,15.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Event Dimensions report,2023.0,Year_2023_part_2_123122523.csv,True,Validation passed,2023-02-18 00:00:00,2023-04-11,100000.0,15.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Event Dimensions report,2023.0,Year_2023_part_3_123122523.csv,True,Validation passed,2023-04-11 00:00:00,2023-06-03,100000.0,15.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Event Dimensions report,2023.0,Year_2023_part_4_123122523.csv,True,Validation passed,2023-06-03 00:00:00,2023-07-25,100000.0,15.0
+f340f09b-b5bb-44df-8654-67d2ac33ce73,Event Dimensions report,2023.0,Year_2023_part_5_123122523.csv,True,Validation passed,2023-07-25 00:00:00,2023-09-07,86696.0,15.0
+59ff0c7e-9ff9-4f5b-bda9-57ab0fd895dc,Page Dimensions report,2020.0,Year_2020_part_1_216638354.csv,True,Validation passed,2020-04-24 00:00:00,2020-11-23,100000.0,19.0
+59ff0c7e-9ff9-4f5b-bda9-57ab0fd895dc,Page Dimensions report,2020.0,Year_2020_part_2_216638354.csv,True,Validation passed,2020-11-23 00:00:00,2020-12-31,16633.0,19.0
+59ff0c7e-9ff9-4f5b-bda9-57ab0fd895dc,Page Dimensions report,2021.0,Year_2021_part_1_216638354.csv,True,Validation passed,2021-01-01 00:00:00,2021-09-10,100000.0,19.0
+59ff0c7e-9ff9-4f5b-bda9-57ab0fd895dc,Page Dimensions report,2021.0,Year_2021_part_2_216638354.csv,True,Validation passed,2021-09-10 00:00:00,2021-12-31,55996.0,19.0
+59ff0c7e-9ff9-4f5b-bda9-57ab0fd895dc,Page Dimensions report,2022.0,Year_2022_part_1_216638354.csv,True,Validation passed,2022-01-01 00:00:00,2022-08-12,100000.0,19.0
+59ff0c7e-9ff9-4f5b-bda9-57ab0fd895dc,Page Dimensions report,2022.0,Year_2022_part_2_216638354.csv,True,Validation passed,2022-08-12 00:00:00,2022-12-31,76899.0,19.0
+59ff0c7e-9ff9-4f5b-bda9-57ab0fd895dc,Page Dimensions report,2023.0,Year_2023_part_1_216638354.csv,True,Validation passed,2023-01-01 00:00:00,2023-04-25,100000.0,19.0
+59ff0c7e-9ff9-4f5b-bda9-57ab0fd895dc,Page Dimensions report,2023.0,Year_2023_part_2_216638354.csv,True,Validation passed,2023-04-25 00:00:00,2023-06-28,57954.0,19.0
+59ff0c7e-9ff9-4f5b-bda9-57ab0fd895dc,Date and Source Dimensions only,2020.0,Year_2020_part_1_216638354.csv,True,Validation passed,2020-04-24 00:00:00,2020-12-31,2824.0,13.0
+59ff0c7e-9ff9-4f5b-bda9-57ab0fd895dc,Date and Source Dimensions only,2021.0,Year_2021_part_1_216638354.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,5759.0,13.0
+59ff0c7e-9ff9-4f5b-bda9-57ab0fd895dc,Date and Source Dimensions only,2022.0,Year_2022_part_1_216638354.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,5306.0,13.0
+59ff0c7e-9ff9-4f5b-bda9-57ab0fd895dc,Date and Source Dimensions only,2023.0,Year_2023_part_1_216638354.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-03,2965.0,13.0
+59ff0c7e-9ff9-4f5b-bda9-57ab0fd895dc,Event Dimensions report,2023.0,Year_2023_part_1_216638354.csv,False,Null values found,(other),2023-01-18,100000.0,15.0
+59ff0c7e-9ff9-4f5b-bda9-57ab0fd895dc,Event Dimensions report,2023.0,Year_2023_part_2_216638354.csv,True,Validation passed,2023-01-17 00:00:00,2023-02-02,100000.0,15.0
+59ff0c7e-9ff9-4f5b-bda9-57ab0fd895dc,Event Dimensions report,2023.0,Year_2023_part_3_216638354.csv,True,Validation passed,2023-02-01 00:00:00,2023-02-23,100000.0,15.0
+59ff0c7e-9ff9-4f5b-bda9-57ab0fd895dc,Event Dimensions report,2023.0,Year_2023_part_4_216638354.csv,True,Validation passed,2023-02-16 00:00:00,2023-03-06,100000.0,15.0
+59ff0c7e-9ff9-4f5b-bda9-57ab0fd895dc,Event Dimensions report,2023.0,Year_2023_part_5_216638354.csv,True,Validation passed,2023-03-06 00:00:00,2023-03-20,100000.0,15.0
+59ff0c7e-9ff9-4f5b-bda9-57ab0fd895dc,Event Dimensions report,2023.0,Year_2023_part_6_216638354.csv,True,Validation passed,2023-03-20 00:00:00,2023-04-04,100000.0,15.0
+59ff0c7e-9ff9-4f5b-bda9-57ab0fd895dc,Event Dimensions report,2023.0,Year_2023_part_7_216638354.csv,True,Validation passed,2023-03-30 00:00:00,2023-04-18,100000.0,15.0
+59ff0c7e-9ff9-4f5b-bda9-57ab0fd895dc,Event Dimensions report,2023.0,Year_2023_part_8_216638354.csv,True,Validation passed,2023-04-19 00:00:00,2023-05-13,100000.0,15.0
+d772ff78-c626-4875-aa5d-2d53f8efa0e5,Page Dimensions report,,,False,Reports not available,,,,
+d772ff78-c626-4875-aa5d-2d53f8efa0e5,Date and Source Dimensions only,,,False,Reports not available,,,,
+d772ff78-c626-4875-aa5d-2d53f8efa0e5,Event Dimensions report,,,False,Reports not available,,,,
+91f775e8-31fc-4bbe-a5a2-5cd3060d2356,Page Dimensions report,,,False,Reports not available,,,,
+91f775e8-31fc-4bbe-a5a2-5cd3060d2356,Date and Source Dimensions only,2014.0,Year_2014_part_1_89862843.csv,True,Validation passed,2014-08-17 00:00:00,2014-12-19,70.0,13.0
+91f775e8-31fc-4bbe-a5a2-5cd3060d2356,Date and Source Dimensions only,2015.0,Year_2015_part_1_89862843.csv,True,Validation passed,2015-01-07 00:00:00,2015-12-30,247.0,13.0
+91f775e8-31fc-4bbe-a5a2-5cd3060d2356,Date and Source Dimensions only,2016.0,Year_2016_part_1_89862843.csv,True,Validation passed,2016-01-07 00:00:00,2016-12-30,291.0,13.0
+91f775e8-31fc-4bbe-a5a2-5cd3060d2356,Date and Source Dimensions only,2017.0,Year_2017_part_1_89862843.csv,True,Validation passed,2017-01-01 00:00:00,2017-12-30,151.0,13.0
+91f775e8-31fc-4bbe-a5a2-5cd3060d2356,Date and Source Dimensions only,2018.0,Year_2018_part_1_89862843.csv,True,Validation passed,2018-01-01 00:00:00,2018-12-28,282.0,13.0
+91f775e8-31fc-4bbe-a5a2-5cd3060d2356,Date and Source Dimensions only,2019.0,Year_2019_part_1_89862843.csv,True,Validation passed,2019-01-01 00:00:00,2019-12-30,226.0,13.0
+91f775e8-31fc-4bbe-a5a2-5cd3060d2356,Date and Source Dimensions only,2020.0,Year_2020_part_1_89862843.csv,True,Validation passed,2020-01-02 00:00:00,2020-03-12,48.0,13.0
+91f775e8-31fc-4bbe-a5a2-5cd3060d2356,Event Dimensions report,,,False,Reports not available,,,,
+60245002-976c-4896-a555-65eb10f3f0b3,Page Dimensions report,2022.0,Year_2022_part_1_216273032.csv,True,Validation passed,2022-04-27 00:00:00,2022-12-31,184.0,19.0
+60245002-976c-4896-a555-65eb10f3f0b3,Page Dimensions report,2023.0,Year_2023_part_1_216273032.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-12,93.0,19.0
+60245002-976c-4896-a555-65eb10f3f0b3,Date and Source Dimensions only,2020.0,Year_2020_part_1_216273032.csv,True,Validation passed,2020-06-05 00:00:00,2020-12-31,60.0,13.0
+60245002-976c-4896-a555-65eb10f3f0b3,Date and Source Dimensions only,2021.0,Year_2021_part_1_216273032.csv,True,Validation passed,2021-01-06 00:00:00,2021-12-31,227.0,13.0
+60245002-976c-4896-a555-65eb10f3f0b3,Date and Source Dimensions only,2022.0,Year_2022_part_1_216273032.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,223.0,13.0
+60245002-976c-4896-a555-65eb10f3f0b3,Date and Source Dimensions only,2023.0,Year_2023_part_1_216273032.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-12,72.0,13.0
+60245002-976c-4896-a555-65eb10f3f0b3,Event Dimensions report,2022.0,Year_2022_part_1_216273032.csv,True,Validation passed,2022-04-28 00:00:00,2022-12-31,104.0,15.0
+60245002-976c-4896-a555-65eb10f3f0b3,Event Dimensions report,2023.0,Year_2023_part_1_216273032.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-12,63.0,15.0
+9b98c28e-8076-4151-b1fb-877e7e3bbd83,Page Dimensions report,2022.0,Year_2022_part_1_217308458.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,981.0,19.0
+9b98c28e-8076-4151-b1fb-877e7e3bbd83,Page Dimensions report,2023.0,Year_2023_part_1_217308458.csv,True,Validation passed,2023-01-01 00:00:00,2023-03-12,536.0,19.0
+9b98c28e-8076-4151-b1fb-877e7e3bbd83,Date and Source Dimensions only,2020.0,Year_2020_part_1_217308458.csv,True,Validation passed,2020-05-04 00:00:00,2020-12-31,158.0,13.0
+9b98c28e-8076-4151-b1fb-877e7e3bbd83,Date and Source Dimensions only,2021.0,Year_2021_part_1_217308458.csv,True,Validation passed,2021-01-04 00:00:00,2021-12-31,391.0,13.0
+9b98c28e-8076-4151-b1fb-877e7e3bbd83,Date and Source Dimensions only,2022.0,Year_2022_part_1_217308458.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,678.0,13.0
+9b98c28e-8076-4151-b1fb-877e7e3bbd83,Date and Source Dimensions only,2023.0,Year_2023_part_1_217308458.csv,True,Validation passed,2023-01-01 00:00:00,2023-03-12,214.0,13.0
+9b98c28e-8076-4151-b1fb-877e7e3bbd83,Event Dimensions report,,,False,Reports not available,,,,
+ab9b0ac9-d1b4-4b0a-b64e-ed2b8acdf3d4,Page Dimensions report,2022.0,Year_2022_part_1_245715727.csv,True,Validation passed,2022-08-22 00:00:00,2022-12-13,9.0,19.0
+ab9b0ac9-d1b4-4b0a-b64e-ed2b8acdf3d4,Page Dimensions report,2023.0,Year_2023_part_1_245715727.csv,True,Validation passed,2023-01-18 00:00:00,2023-06-28,61.0,19.0
+ab9b0ac9-d1b4-4b0a-b64e-ed2b8acdf3d4,Date and Source Dimensions only,2022.0,Year_2022_part_1_245715727.csv,True,Validation passed,2022-02-24 00:00:00,2022-12-13,13.0,13.0
+ab9b0ac9-d1b4-4b0a-b64e-ed2b8acdf3d4,Date and Source Dimensions only,2023.0,Year_2023_part_1_245715727.csv,True,Validation passed,2023-01-18 00:00:00,2023-06-28,44.0,13.0
+ab9b0ac9-d1b4-4b0a-b64e-ed2b8acdf3d4,Event Dimensions report,,,False,Reports not available,,,,
+ee091898-f4ac-4d35-8fb1-217ecea00ada,Page Dimensions report,2022.0,Year_2022_part_1_80050820.csv,True,Validation passed,2022-07-08 00:00:00,2022-07-08,1.0,19.0
+ee091898-f4ac-4d35-8fb1-217ecea00ada,Date and Source Dimensions only,2013.0,Year_2013_part_1_80050820.csv,True,Validation passed,2013-12-13 00:00:00,2013-12-31,27.0,13.0
+ee091898-f4ac-4d35-8fb1-217ecea00ada,Date and Source Dimensions only,2014.0,Year_2014_part_1_80050820.csv,True,Validation passed,2014-01-01 00:00:00,2014-12-31,578.0,13.0
+ee091898-f4ac-4d35-8fb1-217ecea00ada,Date and Source Dimensions only,2015.0,Year_2015_part_1_80050820.csv,True,Validation passed,2015-01-01 00:00:00,2015-12-31,520.0,13.0
+ee091898-f4ac-4d35-8fb1-217ecea00ada,Date and Source Dimensions only,2016.0,Year_2016_part_1_80050820.csv,True,Validation passed,2016-01-01 00:00:00,2016-12-30,411.0,13.0
+ee091898-f4ac-4d35-8fb1-217ecea00ada,Date and Source Dimensions only,2017.0,Year_2017_part_1_80050820.csv,True,Validation passed,2017-01-01 00:00:00,2017-12-31,374.0,13.0
+ee091898-f4ac-4d35-8fb1-217ecea00ada,Date and Source Dimensions only,2018.0,Year_2018_part_1_80050820.csv,True,Validation passed,2018-01-01 00:00:00,2018-12-31,428.0,13.0
+ee091898-f4ac-4d35-8fb1-217ecea00ada,Date and Source Dimensions only,2019.0,Year_2019_part_1_80050820.csv,True,Validation passed,2019-01-01 00:00:00,2019-12-31,335.0,13.0
+ee091898-f4ac-4d35-8fb1-217ecea00ada,Date and Source Dimensions only,2020.0,Year_2020_part_1_80050820.csv,True,Validation passed,2020-01-02 00:00:00,2020-05-31,148.0,13.0
+ee091898-f4ac-4d35-8fb1-217ecea00ada,Date and Source Dimensions only,2022.0,Year_2022_part_1_80050820.csv,True,Validation passed,2022-04-20 00:00:00,2022-07-08,2.0,13.0
+ee091898-f4ac-4d35-8fb1-217ecea00ada,Event Dimensions report,,,False,Reports not available,,,,
+89859b9a-e4bd-4cf8-a266-3815c61a3941,Page Dimensions report,,,False,Reports not available,,,,
+89859b9a-e4bd-4cf8-a266-3815c61a3941,Date and Source Dimensions only,2017.0,Year_2017_part_1_141784435.csv,True,Validation passed,2017-03-06 00:00:00,2017-12-31,598.0,13.0
+89859b9a-e4bd-4cf8-a266-3815c61a3941,Date and Source Dimensions only,2018.0,Year_2018_part_1_141784435.csv,True,Validation passed,2018-01-01 00:00:00,2018-12-31,729.0,13.0
+89859b9a-e4bd-4cf8-a266-3815c61a3941,Date and Source Dimensions only,2019.0,Year_2019_part_1_141784435.csv,True,Validation passed,2019-01-01 00:00:00,2019-12-31,645.0,13.0
+89859b9a-e4bd-4cf8-a266-3815c61a3941,Date and Source Dimensions only,2020.0,Year_2020_part_1_141784435.csv,True,Validation passed,2020-01-01 00:00:00,2020-12-17,664.0,13.0
+89859b9a-e4bd-4cf8-a266-3815c61a3941,Date and Source Dimensions only,2021.0,Year_2021_part_1_141784435.csv,True,Validation passed,2021-01-19 00:00:00,2021-07-01,306.0,13.0
+89859b9a-e4bd-4cf8-a266-3815c61a3941,Event Dimensions report,,,False,Reports not available,,,,
+45b0d24c-9c3d-4ebe-9eb8-e30a2b90686b,Page Dimensions report,2022.0,Year_2022_part_1_129210677.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,1307.0,19.0
+45b0d24c-9c3d-4ebe-9eb8-e30a2b90686b,Page Dimensions report,2023.0,Year_2023_part_1_129210677.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,612.0,19.0
+45b0d24c-9c3d-4ebe-9eb8-e30a2b90686b,Date and Source Dimensions only,2016.0,Year_2016_part_1_129210677.csv,True,Validation passed,2016-10-27 00:00:00,2016-12-31,72.0,13.0
+45b0d24c-9c3d-4ebe-9eb8-e30a2b90686b,Date and Source Dimensions only,2017.0,Year_2017_part_1_129210677.csv,True,Validation passed,2017-01-01 00:00:00,2017-12-30,404.0,13.0
+45b0d24c-9c3d-4ebe-9eb8-e30a2b90686b,Date and Source Dimensions only,2018.0,Year_2018_part_1_129210677.csv,True,Validation passed,2018-01-01 00:00:00,2018-12-31,508.0,13.0
+45b0d24c-9c3d-4ebe-9eb8-e30a2b90686b,Date and Source Dimensions only,2019.0,Year_2019_part_1_129210677.csv,True,Validation passed,2019-01-01 00:00:00,2019-12-31,523.0,13.0
+45b0d24c-9c3d-4ebe-9eb8-e30a2b90686b,Date and Source Dimensions only,2020.0,Year_2020_part_1_129210677.csv,True,Validation passed,2020-01-01 00:00:00,2020-11-24,554.0,13.0
+45b0d24c-9c3d-4ebe-9eb8-e30a2b90686b,Date and Source Dimensions only,2021.0,Year_2021_part_1_129210677.csv,True,Validation passed,2021-01-19 00:00:00,2021-12-31,646.0,13.0
+45b0d24c-9c3d-4ebe-9eb8-e30a2b90686b,Date and Source Dimensions only,2022.0,Year_2022_part_1_129210677.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,692.0,13.0
+45b0d24c-9c3d-4ebe-9eb8-e30a2b90686b,Date and Source Dimensions only,2023.0,Year_2023_part_1_129210677.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,293.0,13.0
+45b0d24c-9c3d-4ebe-9eb8-e30a2b90686b,Event Dimensions report,,,False,Reports not available,,,,
+25645367-ecea-4642-a4e7-ae6e1d8c74c9,Page Dimensions report,2023.0,Year_2023_part_1_284171709.csv,True,Validation passed,2023-02-03 00:00:00,2023-06-01,15.0,19.0
+25645367-ecea-4642-a4e7-ae6e1d8c74c9,Date and Source Dimensions only,2023.0,Year_2023_part_1_284171709.csv,True,Validation passed,2023-02-03 00:00:00,2023-06-01,13.0,13.0
+25645367-ecea-4642-a4e7-ae6e1d8c74c9,Event Dimensions report,,,False,Reports not available,,,,
+c894fe27-f83c-4dd8-9149-0dacab6cc87d,Page Dimensions report,2022.0,Year_2022_part_1_213883166.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-30,958.0,19.0
+c894fe27-f83c-4dd8-9149-0dacab6cc87d,Page Dimensions report,2023.0,Year_2023_part_1_213883166.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,929.0,19.0
+c894fe27-f83c-4dd8-9149-0dacab6cc87d,Date and Source Dimensions only,2020.0,Year_2020_part_1_213883166.csv,True,Validation passed,2020-03-17 00:00:00,2020-11-24,351.0,13.0
+c894fe27-f83c-4dd8-9149-0dacab6cc87d,Date and Source Dimensions only,2021.0,Year_2021_part_1_213883166.csv,True,Validation passed,2021-01-19 00:00:00,2021-12-31,538.0,13.0
+c894fe27-f83c-4dd8-9149-0dacab6cc87d,Date and Source Dimensions only,2022.0,Year_2022_part_1_213883166.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-30,504.0,13.0
+c894fe27-f83c-4dd8-9149-0dacab6cc87d,Date and Source Dimensions only,2023.0,Year_2023_part_1_213883166.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,303.0,13.0
+c894fe27-f83c-4dd8-9149-0dacab6cc87d,Event Dimensions report,2022.0,Year_2022_part_1_213883166.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-30,721.0,15.0
+c894fe27-f83c-4dd8-9149-0dacab6cc87d,Event Dimensions report,2023.0,Year_2023_part_1_213883166.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,445.0,15.0
+3094c187-83ad-45b4-8e8e-441261512347,Page Dimensions report,2022.0,Year_2022_part_1_215716208.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,2058.0,19.0
+3094c187-83ad-45b4-8e8e-441261512347,Page Dimensions report,2023.0,Year_2023_part_1_215716208.csv,True,Validation passed,2023-01-01 00:00:00,2023-04-30,974.0,19.0
+3094c187-83ad-45b4-8e8e-441261512347,Date and Source Dimensions only,2020.0,Year_2020_part_1_215716208.csv,True,Validation passed,2020-05-06 00:00:00,2020-06-18,91.0,13.0
+3094c187-83ad-45b4-8e8e-441261512347,Date and Source Dimensions only,2021.0,Year_2021_part_1_215716208.csv,True,Validation passed,2021-01-13 00:00:00,2021-12-31,777.0,13.0
+3094c187-83ad-45b4-8e8e-441261512347,Date and Source Dimensions only,2022.0,Year_2022_part_1_215716208.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,820.0,13.0
+3094c187-83ad-45b4-8e8e-441261512347,Date and Source Dimensions only,2023.0,Year_2023_part_1_215716208.csv,True,Validation passed,2023-01-01 00:00:00,2023-04-30,259.0,13.0
+3094c187-83ad-45b4-8e8e-441261512347,Event Dimensions report,,,False,Reports not available,,,,
+d1f5a6d2-45e0-4454-92dc-3430aee1af45,Page Dimensions report,,,False,Reports not available,,,,
+d1f5a6d2-45e0-4454-92dc-3430aee1af45,Date and Source Dimensions only,2020.0,Year_2020_part_1_215636813.csv,True,Validation passed,2020-05-06 00:00:00,2020-05-06,1.0,13.0
+d1f5a6d2-45e0-4454-92dc-3430aee1af45,Event Dimensions report,,,False,Reports not available,,,,
+d9c9d09c-fb10-4eb3-82fb-5c6842974f95,Page Dimensions report,2022.0,Year_2022_part_1_249076987.csv,True,Validation passed,2022-04-28 00:00:00,2022-12-31,1665.0,19.0
+d9c9d09c-fb10-4eb3-82fb-5c6842974f95,Page Dimensions report,2023.0,Year_2023_part_1_249076987.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,1879.0,19.0
+d9c9d09c-fb10-4eb3-82fb-5c6842974f95,Date and Source Dimensions only,2021.0,Year_2021_part_1_249076987.csv,True,Validation passed,2021-08-16 00:00:00,2021-12-31,107.0,13.0
+d9c9d09c-fb10-4eb3-82fb-5c6842974f95,Date and Source Dimensions only,2022.0,Year_2022_part_1_249076987.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,632.0,13.0
+d9c9d09c-fb10-4eb3-82fb-5c6842974f95,Date and Source Dimensions only,2023.0,Year_2023_part_1_249076987.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,386.0,13.0
+d9c9d09c-fb10-4eb3-82fb-5c6842974f95,Event Dimensions report,2022.0,Year_2022_part_1_249076987.csv,True,Validation passed,2022-04-28 00:00:00,2022-12-31,1509.0,15.0
+d9c9d09c-fb10-4eb3-82fb-5c6842974f95,Event Dimensions report,2023.0,Year_2023_part_1_249076987.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-15,1790.0,15.0
+5384ceff-4d58-47d6-8414-b9ced00fa3d0,Page Dimensions report,2022.0,Year_2022_part_1_187853763.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,5547.0,19.0
+5384ceff-4d58-47d6-8414-b9ced00fa3d0,Page Dimensions report,2023.0,Year_2023_part_1_187853763.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,4723.0,19.0
+5384ceff-4d58-47d6-8414-b9ced00fa3d0,Date and Source Dimensions only,2019.0,Year_2019_part_1_187853763.csv,True,Validation passed,2019-01-11 00:00:00,2019-08-30,637.0,13.0
+5384ceff-4d58-47d6-8414-b9ced00fa3d0,Date and Source Dimensions only,2020.0,Year_2020_part_1_187853763.csv,True,Validation passed,2020-01-07 00:00:00,2020-12-31,965.0,13.0
+5384ceff-4d58-47d6-8414-b9ced00fa3d0,Date and Source Dimensions only,2021.0,Year_2021_part_1_187853763.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,1493.0,13.0
+5384ceff-4d58-47d6-8414-b9ced00fa3d0,Date and Source Dimensions only,2022.0,Year_2022_part_1_187853763.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,1419.0,13.0
+5384ceff-4d58-47d6-8414-b9ced00fa3d0,Date and Source Dimensions only,2023.0,Year_2023_part_1_187853763.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,801.0,13.0
+5384ceff-4d58-47d6-8414-b9ced00fa3d0,Event Dimensions report,2022.0,Year_2022_part_1_187853763.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,5227.0,15.0
+5384ceff-4d58-47d6-8414-b9ced00fa3d0,Event Dimensions report,2023.0,Year_2023_part_1_187853763.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,4428.0,15.0
+5fa692b2-3ffc-4b1d-b7dc-06a87ff69fa5,Page Dimensions report,,,False,Reports not available,,,,
+5fa692b2-3ffc-4b1d-b7dc-06a87ff69fa5,Date and Source Dimensions only,2021.0,Year_2021_part_1_230130779.csv,True,Validation passed,2021-03-02 00:00:00,2021-03-02,1.0,13.0
+5fa692b2-3ffc-4b1d-b7dc-06a87ff69fa5,Event Dimensions report,,,False,Reports not available,,,,
+4bcb318b-c1af-47d9-a133-699d7876888f,Page Dimensions report,2022.0,Year_2022_part_1_215645040.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,609.0,19.0
+4bcb318b-c1af-47d9-a133-699d7876888f,Page Dimensions report,2023.0,Year_2023_part_1_215645040.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,287.0,19.0
+4bcb318b-c1af-47d9-a133-699d7876888f,Date and Source Dimensions only,2022.0,Year_2022_part_1_215645040.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,319.0,13.0
+4bcb318b-c1af-47d9-a133-699d7876888f,Date and Source Dimensions only,2023.0,Year_2023_part_1_215645040.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-16,203.0,13.0
+4bcb318b-c1af-47d9-a133-699d7876888f,Event Dimensions report,,,False,Reports not available,,,,
+51461090-8a1f-4116-b7a3-f9abafa98f49,Page Dimensions report,2022.0,Year_2022_part_1_227973338.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,859.0,19.0
+51461090-8a1f-4116-b7a3-f9abafa98f49,Page Dimensions report,2023.0,Year_2023_part_1_227973338.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-06,589.0,19.0
+51461090-8a1f-4116-b7a3-f9abafa98f49,Date and Source Dimensions only,2020.0,Year_2020_part_1_227973338.csv,True,Validation passed,2020-09-01 00:00:00,2020-12-31,238.0,13.0
+51461090-8a1f-4116-b7a3-f9abafa98f49,Date and Source Dimensions only,2021.0,Year_2021_part_1_227973338.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,698.0,13.0
+51461090-8a1f-4116-b7a3-f9abafa98f49,Date and Source Dimensions only,2022.0,Year_2022_part_1_227973338.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-31,624.0,13.0
+51461090-8a1f-4116-b7a3-f9abafa98f49,Date and Source Dimensions only,2023.0,Year_2023_part_1_227973338.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-06,265.0,13.0
+51461090-8a1f-4116-b7a3-f9abafa98f49,Event Dimensions report,2022.0,Year_2022_part_1_227973338.csv,True,Validation passed,2022-04-26 00:00:00,2022-12-31,714.0,15.0
+51461090-8a1f-4116-b7a3-f9abafa98f49,Event Dimensions report,2023.0,Year_2023_part_1_227973338.csv,True,Validation passed,2023-01-01 00:00:00,2023-07-06,469.0,15.0
+42ba9442-d2e6-4ba0-b566-15692b46ed91,Page Dimensions report,2022.0,Year_2022_part_1_216538020.csv,True,Validation passed,2022-04-27 00:00:00,2022-05-04,100000.0,19.0
+42ba9442-d2e6-4ba0-b566-15692b46ed91,Page Dimensions report,2022.0,Year_2022_part_2_216538020.csv,True,Validation passed,2022-05-04 00:00:00,2022-05-13,100000.0,19.0
+42ba9442-d2e6-4ba0-b566-15692b46ed91,Page Dimensions report,2022.0,Year_2022_part_3_216538020.csv,True,Validation passed,2022-05-13 00:00:00,2022-05-23,100000.0,19.0
+42ba9442-d2e6-4ba0-b566-15692b46ed91,Page Dimensions report,2022.0,Year_2022_part_4_216538020.csv,True,Validation passed,2022-05-23 00:00:00,2022-06-02,100000.0,19.0
+42ba9442-d2e6-4ba0-b566-15692b46ed91,Page Dimensions report,2022.0,Year_2022_part_5_216538020.csv,True,Validation passed,2022-06-02 00:00:00,2022-06-11,100000.0,19.0
+42ba9442-d2e6-4ba0-b566-15692b46ed91,Page Dimensions report,2022.0,Year_2022_part_6_216538020.csv,True,Validation passed,2022-06-11 00:00:00,2022-06-21,100000.0,19.0
+42ba9442-d2e6-4ba0-b566-15692b46ed91,Page Dimensions report,2022.0,Year_2022_part_7_216538020.csv,True,Validation passed,2022-06-21 00:00:00,2022-12-29,64719.0,19.0
+42ba9442-d2e6-4ba0-b566-15692b46ed91,Page Dimensions report,2023.0,Year_2023_part_1_216538020.csv,True,Validation passed,2023-01-02 00:00:00,2023-07-23,22.0,19.0
+42ba9442-d2e6-4ba0-b566-15692b46ed91,Date and Source Dimensions only,2020.0,Year_2020_part_1_216538020.csv,True,Validation passed,2020-04-23 00:00:00,2020-12-31,41381.0,13.0
+42ba9442-d2e6-4ba0-b566-15692b46ed91,Date and Source Dimensions only,2021.0,Year_2021_part_1_216538020.csv,True,Validation passed,2021-01-01 00:00:00,2021-12-31,65680.0,13.0
+42ba9442-d2e6-4ba0-b566-15692b46ed91,Date and Source Dimensions only,2022.0,Year_2022_part_1_216538020.csv,True,Validation passed,2022-01-01 00:00:00,2022-12-29,17769.0,13.0
+42ba9442-d2e6-4ba0-b566-15692b46ed91,Date and Source Dimensions only,2023.0,Year_2023_part_1_216538020.csv,True,Validation passed,2023-01-02 00:00:00,2023-07-23,20.0,13.0
+42ba9442-d2e6-4ba0-b566-15692b46ed91,Event Dimensions report,,,False,Reports not available,,,,

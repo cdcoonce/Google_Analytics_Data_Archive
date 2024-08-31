@@ -1,0 +1,23 @@
+Variable Name,Description,Google Analytics Type,Data Type,Format,Possible Values/Range,Source,Notes
+ga:date,Date of the data entry.,Dimension,Date,YYYY-MM-DD,-,Google Analytics,Uniform format `%Y-%m-%d`.
+ga:browser,"The name of users' browsers (e.g., Chrome, Edge, Firefox, Internet Explorer, Safari).",Dimension,String,-,-,Google Analytics,-
+ga:deviceCategory,"The type of device: (e.g., desktop, tablet, or mobile.",Dimension,String,-,-,Google Analytics,-
+ga:region,"The state from which the sessions' IP references. Users' region ID, derived from their IP addresses or Geographical IDs. In U.S., a region is a State.",Dimension,String,-,-,Google Analytics,-
+ga:source,"Source of the traffic (e.g., Google, Direct, Referral).",Dimension,String,-,-,Google Analytics,-
+ga:pageTitle,How the developer named the page descriptively. Often many URLs can have the same Page Title if they are essentially the same content.,Dimension,String,-,-,Google Analytics,-
+ga:landingPagePath,The first page in users' 'Session'. Think of it as an Entrance Page.,Dimension,String,-,-,Google Analytics,Applicable for Page Dimensions Report.
+ga:exitPagePath,"The last page in users' 'Session'. They are distinct from Bounces as Exits occur in all Sessions, but 'Bounces' denote only a single page 'Session'",Dimension,String,-,-,Google Analytics,Applicable for Page Dimensions Report.
+ga:eventCategory,"Category of the event (e.g., Video, Button Click).",Dimension,String,-,-,Google Analytics,Applicable for Event Dimensions Report.
+ga:eventAction,"Action of the event (e.g., Play, Submit).",Dimension,String,-,-,Google Analytics,Applicable for Event Dimensions Report.
+ga:eventLabel,"Label of the event (e.g., Video Name, Form ID).",Dimension,String,-,-,Google Analytics,Applicable for Event Dimensions Report.
+ga:users,Number of users who visited the website.,Metric,Integer,-,Non-negative integers,Google Analytics,-
+ga:newUsers,Number of new users who visited the website.,Metric,Integer,-,Non-negative integers,Google Analytics,-
+ga:pageviews,Total number of pageviews.,Metric,Integer,-,Non-negative integers,Google Analytics,-
+ga:uniquePageviews,Number of unique pageviews.,Metric,Integer,-,Non-negative integers,Google Analytics,-
+ga:sessions,Number of sessions initiated by users.,Metric,Integer,-,Non-negative integers,Google Analytics,-
+ga:avgSessionDuration (in seconds),Average duration of a session in seconds.,Metric,Float,Time (saved as Float),Non-negative floats,Google Analytics,-
+ga:avgSessionDuration (Excel - hh:mm:ss),Average duration of a session in seconds.,Metric,Float,Time (saved as Float),Non-negative floats,Google Analytics,ga:avgSessionDuration (in Seconds) / 86240
+ga:bounces,Number of bounces (single-page sessions).,Metric,Integer,-,Non-negative integers,Google Analytics,-
+ga:bounceRate,Percentage of single-page sessions.,Metric,Float,Percentage (saved as Float 0.XX...),0.00-1,Google Analytics,-
+ga:avgTimeOnPage (in seconds),Average time users spent on a single page.,Metric,Float,Time (saved as Float),Non-negative floats,Google Analytics,ga:avgTimeOnPAge (in Seconds) / 86240
+ga:avgTimeOnPage (Excel - hh:mm:ss),Average time users spent on a single page.,Metric,Float,Time (saved as Float),Non-negative floats,Google Analytics,-
