@@ -16,7 +16,7 @@ After researching what data was available to the stakeholder, We decided on spec
 
 [View as Spreadsheet](https://docs.google.com/spreadsheets/d/13eqFhGQ_bdxNRTU8BlooypEwH7F9-BJVKpy3hR-SzhQ/edit?usp=sharing)
 
-![CSV Data](/Google_Analytics_Public/DataDictionary.png)
+![CSV Data](/DataDictionary.png)
 
 ## 3. Extracting the Data
 
