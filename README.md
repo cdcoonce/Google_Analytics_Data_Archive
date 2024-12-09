@@ -16,7 +16,7 @@ After researching what data was available to the stakeholder, We decided on spec
 
 [View as Spreadsheet](https://docs.google.com/spreadsheets/d/13eqFhGQ_bdxNRTU8BlooypEwH7F9-BJVKpy3hR-SzhQ/edit?usp=sharing)
 
-![CSV Data](/DataDictionary.png)
+![CSV Data](/assets/DataDictionary.png)
 
 ## 3. Extracting the Data
 
@@ -44,10 +44,10 @@ View the Code here: [GA_Anon_Validation.py](https://github.com/cdcoonce/Google_A
 
 [View as Spreadsheet](https://docs.google.com/spreadsheets/d/1F05nZMdK5_r98D2E3aJOobeM-Fz4xS3M8UnuvmmGNoE/edit?usp=sharing)
 
-![CSV Data](/SumValidationReport.png)
+![CSV Data](/assets/SumValidationReport.png)
 
 ### Detailed Validation Report
 
 [View as Spreadsheet](https://docs.google.com/spreadsheets/d/1brbFTA92cjV2FmXa69LhpQHLT7anhESjWphB_XoY2Nc/edit?usp=sharing)
 
-![CSV Data](/DetValidationReport.png)
+![CSV Data](/assets/DetValidationReport.png)
