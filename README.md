@@ -44,10 +44,10 @@ View the Code here: [GA_Anon_Validation.py](https://github.com/cdcoonce/Google_A
 
 [View as Spreadsheet](https://docs.google.com/spreadsheets/d/1F05nZMdK5_r98D2E3aJOobeM-Fz4xS3M8UnuvmmGNoE/edit?usp=sharing)
 
-![CSV Data](/Google_Analytics_Public/SumValidationReport.png)
+![CSV Data](/SumValidationReport.png)
 
 ### Detailed Validation Report
 
 [View as Spreadsheet](https://docs.google.com/spreadsheets/d/1brbFTA92cjV2FmXa69LhpQHLT7anhESjWphB_XoY2Nc/edit?usp=sharing)
 
-![CSV Data](/Google_Analytics_Public/DetValidationReport.png)
+![CSV Data](/DetValidationReport.png)
