@@ -24,7 +24,7 @@ The first option for extracting the data for all these properties is to use the 
 
 I decided I would make a python script to connect to the properties remotely using the Google Analytics API to extract and format the data myself.
 
-View the Code here: [main_v6.1.py](https://github.com/cdcoonce/Google_Analytics_Public/blob/master/main_v6.1_MonthYear.py)
+View the Code here: [main_v6.1.py](https://github.com/cdcoonce/Google_Analytics_Public/blob/master/main_v6.1.py)
 
 ## 4. Validation
 
