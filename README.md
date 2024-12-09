@@ -30,5 +30,24 @@ View the Code here: [main_v6.1.py](https://github.com/cdcoonce/Google_Analytics_
 
 I wanted to make sure the data was intact after automating the data retrieval process. I created python validation script to read through the newly created csv files and check for anomalies.
 
-View the Code here: [GA_DataValidation_V1.2.py](https://github.com/cdcoonce/Google_Analytics_Public/blob/master/main_v6.1_MonthYear.py)
+View the Code here: [GA_DataValidation_V1.2.py](https://github.com/cdcoonce/Google_Analytics_Public/blob/master/GA_DataValidation_%20V1.2.py)
 
+## 5. Results
+
+### Anonymized Property Names
+
+To protect the privacy of the property owners who were part of this Data Move, I anonymized the property names using a third python script and token mapping.
+
+View the Code here: [GA_Anon_Validation.py](https://github.com/cdcoonce/Google_Analytics_Public/blob/master/GA_Anon_Validation.py)
+
+### Summary Validation Report
+
+[View as Spreadsheet](https://docs.google.com/spreadsheets/d/1F05nZMdK5_r98D2E3aJOobeM-Fz4xS3M8UnuvmmGNoE/edit?usp=sharing)
+
+![CSV Data](/Google_Analytics_Public/SumValidationReport.png)
+
+### Detailed Validation Report
+
+[View as Spreadsheet](https://docs.google.com/spreadsheets/d/1brbFTA92cjV2FmXa69LhpQHLT7anhESjWphB_XoY2Nc/edit?usp=sharing)
+
+![CSV Data](/Google_Analytics_Public/DetValidationReport.png)
