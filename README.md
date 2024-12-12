@@ -24,13 +24,13 @@ The first option for extracting the data for all these properties is to use the 
 
 I decided I would make a python script to connect to the properties remotely using the Google Analytics API to extract and format the data myself.
 
-View the Code here: [main_v6.1.py](https://github.com/cdcoonce/Google_Analytics_Public/blob/master/main_v6.1.py)
+View the Code here: [main_v6.1.py](https://github.com/cdcoonce/Google_Analytics_Data_Archive/blob/master/main_v6.1.py)
 
 ## 4. Validation
 
 I wanted to make sure the data was intact after automating the data retrieval process. I created python validation script to read through the newly created csv files and check for anomalies.
 
-View the Code here: [GA_DataValidation_V1.2.py](https://github.com/cdcoonce/Google_Analytics_Public/blob/master/GA_DataValidation_%20V1.2.py)
+View the Code here: [GA_DataValidation_V1.2.py](https://github.com/cdcoonce/Google_Analytics_Data_Archive/blob/master/GA_DataValidation_%20V1.2.py)
 
 ## 5. Results
 
@@ -38,7 +38,7 @@ View the Code here: [GA_DataValidation_V1.2.py](https://github.com/cdcoonce/Goog
 
 To protect the privacy of the property owners who were part of this Data Move, I anonymized the property names using a third python script and token mapping.
 
-View the Code here: [GA_Anon_Validation.py](https://github.com/cdcoonce/Google_Analytics_Public/blob/master/GA_Anon_Validation.py)
+View the Code here: [GA_Anon_Validation.py](https://github.com/cdcoonce/Google_Analytics_Data_Archive/blob/master/GA_Anon_Validation.py)
 
 ### Summary Validation Report
 
