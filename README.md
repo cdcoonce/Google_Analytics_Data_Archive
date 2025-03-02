@@ -1,53 +1,130 @@
 # Google Analytics 3 Data Archive
 
-In March of 2022 Google Analytics 3 (Universal Analytics) announced the push to transition all it's users to Google Analytics 4. July 1, 2024 was the official end date for access to all historical data in Google Analytics 3.
+*A Data Preservation & Automation Project*
 
-At the end of May 2024, I was tasked with exporting all the historical data for 70 unique properties (sites or apps) to a previously determined location on enterprise servers. This required me to develop a course of action that would allow me to obtain all data points that the stakeholders required within a little over a month.
+---
 
-## 1. Initial Task
+## Table of Contents
 
-The list of properties that have been collecting website traffic and analytics from Google Analytics 3, also known as Universal Analytics was just a month away from being permanently deleted due to Google Analytics moving to the brand new Google Analytics 4.
+- [Google Analytics 3 Data Archive](#google-analytics-3-data-archive)
+  - [Table of Contents](#table-of-contents)
+  - [Overview \& Objectives](#overview--objectives)
+  - [Project Requirements](#project-requirements)
+  - [Data Dictionary](#data-dictionary)
+  - [Data Extraction Process](#data-extraction-process)
+    - [Why Not Use the GA Dashboard?](#why-not-use-the-ga-dashboard)
+    - [Python to the Rescue](#python-to-the-rescue)
+  - [Validation \& Data Integrity](#validation--data-integrity)
+  - [Anonymizing Sensitive Data](#anonymizing-sensitive-data)
+  - [Results \& Insights](#results--insights)
+    - [Validation Reports](#validation-reports)
+    - [Key Takeaways](#key-takeaways)
+  - [Next Steps \& Final Thoughts](#next-steps--final-thoughts)
 
-## 2. Gathering Requirements
+---
 
-After researching what data was available to the stakeholder, We decided on specific sets of data that could be extracted into csv files seperated by year and month.
+## Overview & Objectives
 
-### Data Dictionary
+Google announced that **Google Analytics 3 (Universal Analytics)** would be deprecated by **July 1, 2024**, after which historical data would no longer be accessible. In **May 2024**, I was tasked with **exporting all historical analytics data** from **70 unique properties** (sites/apps) to an enterprise server, ensuring that stakeholders retained access to the data they needed—even after Universal Analytics was gone.
 
-[View as Spreadsheet](https://docs.google.com/spreadsheets/d/13eqFhGQ_bdxNRTU8BlooypEwH7F9-BJVKpy3hR-SzhQ/edit?usp=sharing)
+**Key Objectives**:
 
-![CSV Data](/assets/DataDictionary.png)
+- **Identify** all 70 properties that needed data extraction.
+- **Define** data requirements and metrics based on stakeholder needs.
+- **Automate** the data extraction process to meet a tight deadline (a little over a month).
+- **Validate & secure** the exported data to ensure data integrity.
 
-## 3. Extracting the Data
+---
 
-The first option for extracting the data for all these properties is to use the Google Analytics Dashboards and then export them to be saved as csv files. Testing this option made it clear it would take too long to export all the data this way.
+## Project Requirements
 
-I decided I would make a python script to connect to the properties remotely using the Google Analytics API to extract and format the data myself.
+1. **Transition Deadline**: Google Analytics 3 data would become permanently inaccessible after July 1, 2024.  
+2. **Historical Scope**: We needed to capture monthly analytics from the earliest tracking date up to June 2024.  
+3. **File Format**: Stakeholders requested the data in `.csv` format, separated by **year and month**.  
+4. **Scalability**: The solution had to handle **70 properties**, each with potentially high volumes of monthly data.  
+5. **Automation**: Manual exports through the Google Analytics dashboard would be impractical, so a scripting or API-based solution was necessary.
 
-View the Code here: [main_v6.1.py](https://github.com/cdcoonce/Google_Analytics_Data_Archive/blob/master/main_v6.1.py)
+---
 
-## 4. Validation
+## Data Dictionary
 
-I wanted to make sure the data was intact after automating the data retrieval process. I created python validation script to read through the newly created csv files and check for anomalies.
+To clarify what would be extracted and how, I developed and finalized a **Data Dictionary** with stackholders. It defines the metrics and dimensions required for each `.csv` file.
 
-View the Code here: [GA_DataValidation_V1.2.py](https://github.com/cdcoonce/Google_Analytics_Data_Archive/blob/master/GA_DataValidation_%20V1.2.py)
+[**View the Data Dictionary Spreadsheet**](https://docs.google.com/spreadsheets/d/13eqFhGQ_bdxNRTU8BlooypEwH7F9-BJVKpy3hR-SzhQ/edit?usp=sharing)
 
-## 5. Results
+![CSV Data Dictionary](/Google_Analytics_Public/assets/DataDictionary.png)
 
-### Anonymized Property Names
+---
 
-To protect the privacy of the property owners who were part of this Data Move, I anonymized the property names using a third python script and token mapping.
+## Data Extraction Process
 
-View the Code here: [GA_Anon_Validation.py](https://github.com/cdcoonce/Google_Analytics_Data_Archive/blob/master/GA_Anon_Validation.py)
+### Why Not Use the GA Dashboard?
 
-### Summary Validation Report
+Exporting data manually from the **Google Analytics** dashboard was **time-consuming** and **error-prone**, especially for 70 properties spanning multiple years. It became clear we needed an **automated** approach.
 
-[View as Spreadsheet](https://docs.google.com/spreadsheets/d/1F05nZMdK5_r98D2E3aJOobeM-Fz4xS3M8UnuvmmGNoE/edit?usp=sharing)
+### Python to the Rescue
 
-![CSV Data](/assets/SumValidationReport.png)
+I developed a **Python script** to:
 
-### Detailed Validation Report
+1. **Authenticate** with the Google Analytics API.
+2. **Iterate** through each property.
+3. **Extract & Transform** the data monthly and yearly as `.csv` files.
+4. **Save** the `.csv` files to the specified enterprise server location.
 
-[View as Spreadsheet](https://docs.google.com/spreadsheets/d/1brbFTA92cjV2FmXa69LhpQHLT7anhESjWphB_XoY2Nc/edit?usp=sharing)
+[**View the Python Script**](https://github.com/cdcoonce/Google_Analytics_Data_Archive/blob/master/main_v6.1.py)
 
-![CSV Data](/assets/DetValidationReport.png)
+This script drastically reduced the time needed and minimized manual errors.
+
+---
+
+## Validation & Data Integrity
+
+Once the extraction completed, I needed to ensure the resulting `.csv` files were **accurate** and **complete**.
+
+1. **Automated Checks**: A Python validation script scanned each file, verifying record counts, date ranges, and expected column headers.  
+2. **Anomaly Detection**: The script flagged any outliers or missing values for manual review.
+
+[**View the Validation Code**](https://github.com/cdcoonce/Google_Analytics_Data_Archive/blob/master/GA_DataValidation_%20V1.2.py)
+
+---
+
+## Anonymizing Sensitive Data
+
+I had concerns about sharing property names and other identifying attributes for this project. To address this:
+
+1. I built a **token mapping** system using a third Python script.  
+2. This script **replaced** sensitive property names with unique IDs before storing or sharing the files.
+
+[**View the Anonymization Script**](https://github.com/cdcoonce/Google_Analytics_Data_Archive/blob/master/GA_Anon_Validation.py)
+
+---
+
+## Results & Insights
+
+### Validation Reports
+
+- **Summary Validation Report**: Provides a high-level overview of validation metrics, highlighting any issues that need further investigation.  
+  [**View Spreadsheet**](https://docs.google.com/spreadsheets/d/1F05nZMdK5_r98D2E3aJOobeM-Fz4xS3M8UnuvmmGNoE/edit?usp=sharing)
+
+  ![Summary Validation](/Google_Analytics_Public/assets/SumValidationReport.png)
+
+- **Detailed Validation Report**: Delves deeper into any anomalies, listing potential errors by row or data category.  
+  [**View Spreadsheet**](https://docs.google.com/spreadsheets/d/1brbFTA92cjV2FmXa69LhpQHLT7anhESjWphB_XoY2Nc/edit?usp=sharing)
+
+  ![Detailed Validation](/Google_Analytics_Public/assets/DetValidationReport.png)
+
+### Key Takeaways
+
+- **Efficiency**: Automated scripting significantly reduced manual effort, meeting the tight month-long deadline.  
+- **Accuracy**: Validation checks caught data discrepancies early, preserving data integrity.  
+- **Security & Anonymity**: Sensitive data was protected via token-based anonymization.
+
+---
+
+## Next Steps & Final Thoughts
+
+1. **Archival Strategy**: With all the `.csv` files successfully archived, an ongoing strategy is to integrate these historical data sets with **Google Analytics 4** or other BI tools for longitudinal analysis.  
+2. **Further Automation**: Future improvements might include a **scheduled job** to handle incremental data exports or re-checks against anomalies.  
+3. **Documentation**: Detailed documentation of the scripts and procedures ensures maintainability and helps onboard new team members.
+
+**Overall**, this project highlights the importance of **planning, automation, and validation** in large-scale data extraction tasks. It demonstrates how Python and a well-organized workflow can make a monumental task—like backing up an entire organization’s Google Analytics history—manageable and accurate.
